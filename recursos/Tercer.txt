@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><hierarchy rotation="0">
+  <node onScreen="false" top="true" visible="false">
+       
+    <XCUIElementTypeApplication XCElementType="XCUIElementTypeApplication" bundleId="com.oldmutual.MobileApp" class="UIAView" enabled="true" height="1792" hidden="false" id="Skandia" knownSuperClass="UIApplication" label="Skandia" name="Skandia" onScreen="true" text="Skandia" top="true" value="Skandia" visible="true" width="828" x="0" y="0">
+      Skandia
+      <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                 
+        <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UILayoutContainerView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                      
+          <XCUIElementTypeNavigationBar XCElementType="XCUIElementTypeNavigationBar" accessibilityLabel="Certificados sin Clave" class="UIANavigationBar" enabled="true" height="88" hidden="false" id="Certificados sin Clave" knownSuperClass="UINavigationBar" label="Certificados sin Clave" name="Certificados sin Clave" onScreen="true" text="Certificados sin Clave" top="true" value="Certificados sin Clave" visible="true" width="828" x="0" y="88">
+            Certificados sin Clave
+            <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="88" hidden="false" id="Back" knownSuperClass="UIAccessibilityElement" label="Back" name="Back" onScreen="true" text="Back" top="true" value="Back" visible="true" width="88" x="0" y="88">Back</XCUIElementTypeButton>
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="40" hidden="false" id="Certificados sin Clave" knownSuperClass="UILabel" label="Certificados sin Clave" name="Certificados sin Clave" onScreen="true" text="Certificados sin Clave" top="true" value="Certificados sin Clave" visible="true" width="348" x="240" y="112">Certificados sin Clave</XCUIElementTypeOther>
+                        
+          </XCUIElementTypeNavigationBar>
+                      
+          <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UINavigationTransitionView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIViewControllerWrapperView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                     
+                <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="196" hidden="false" id="Solicite extractos, certificados de afiliación y tributarios sin usuario ni clave, los documentos serán enviados a su correo electrónico registrado junto con una notificación SMS a su teléfono celular." knownSuperClass="UILabel" label="Solicite extractos, certificados de afiliación y tributarios sin usuario ni clave, los documentos serán enviados a su correo electrónico registrado junto con una notificación SMS a su teléfono celular." name="Solicite extractos, certificados de afiliación y tributarios sin usuario ni clave, los documentos serán enviados a su correo electrónico registrado junto con una notificación SMS a su teléfono celular." onScreen="true" text="Solicite extractos, certificados de afiliación y tributarios sin usuario ni clave, los documentos serán enviados a su correo electrónico registrado junto con una notificación SMS a su teléfono celular." top="true" value="Solicite extractos, certificados de afiliación y tributarios sin usuario ni clave, los documentos serán enviados a su correo electrónico registrado junto con una notificación SMS a su teléfono celular." visible="true" width="708" x="60" y="270">Solicite extractos, certificados de afiliación y tributarios sin usuario ni clave, los documentos serán enviados a su correo electrónico registrado junto con una notificación SMS a su teléfono celular.</XCUIElementTypeStaticText>
+                                     
+                <XCUIElementTypeTextField XCElementType="XCUIElementTypeTextField" class="UIATextField" enabled="true" height="60" hidden="false" knownSuperClass="UITextField" onScreen="true" placeholder="Tipo de ID" text="Tipo de ID" top="true" value="Tipo de ID" visible="true" width="260" x="60" y="506">Tipo de ID</XCUIElementTypeTextField>
+                                     
+                <XCUIElementTypeTextField XCElementType="XCUIElementTypeTextField" class="UIATextField" enabled="true" height="60" hidden="false" knownSuperClass="UITextField" onScreen="true" placeholder="Número de documento" text="Número de documento" top="true" value="Número de documento" visible="true" width="440" x="328" y="506">Número de documento</XCUIElementTypeTextField>
+                                     
+                <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="34" hidden="false" id="Seleccione el tipo de documento" knownSuperClass="UILabel" label="Seleccione el tipo de documento" name="Seleccione el tipo de documento" onScreen="true" text="Seleccione el tipo de documento" top="true" value="Seleccione el tipo de documento" visible="true" width="708" x="60" y="622">Seleccione el tipo de documento</XCUIElementTypeStaticText>
+                                     
+                <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="Afiliación" knownSuperClass="UIButton" label="Afiliación" name="Afiliación" onScreen="true" text="Afiliación" top="true" value="Afiliación" visible="true" width="228" x="60" y="738">Afiliación</XCUIElementTypeButton>
+                                     
+                <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="Tributario" knownSuperClass="UIButton" label="Tributario" name="Tributario" onScreen="true" text="Tributario" top="true" value="Tributario" visible="true" width="230" x="298" y="738">Tributario</XCUIElementTypeButton>
+                                     
+                <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="Extracto" knownSuperClass="UIButton" label="Extracto" name="Extracto" onScreen="true" text="Extracto" top="true" value="Extracto" visible="true" width="228" x="538" y="738">Extracto</XCUIElementTypeButton>
+                                  
+              </XCUIElementTypeOther>
+                             
+            </XCUIElementTypeOther>
+                        
+          </XCUIElementTypeOther>
+                   
+        </XCUIElementTypeOther>
+              
+      </XCUIElementTypeWindow>
+            
+      <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIStatusBarWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                 
+        <XCUIElementTypeStatusBar XCElementType="XCUIElementTypeStatusBar" class="UIAStatusBar" enabled="true" height="88" hidden="false" knownSuperClass="UIStatusBar_Modern" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                      
+          <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="88" hidden="false" knownSuperClass="_UIStatusBar" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="88" hidden="false" knownSuperClass="_UIStatusBarForegroundView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="16" y="-8"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="420" y="-8"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="16" y="38"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="32" y="28">
+                                     
+                <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="38" hidden="false" id="9:00 AM" knownSuperClass="_UIStatusBarStringView" label="9:00 AM" name="9:00 AM" onScreen="true" text="9:00 AM" top="true" value="9:00 AM" visible="true" width="72" x="66" y="30">9:00 AM</XCUIElementTypeStaticText>
+                                  
+              </XCUIElementTypeOther>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="44" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="122" x="46" y="20"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="420" y="38"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="652" y="28">
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIATableCell" enabled="true" height="22" hidden="false" id="Cellular" knownSuperClass="_UIStatusBarCellularSignalView" label="Cellular" name="Cellular" onScreen="true" text="Cellular" top="true" value="No signal" visible="true" width="36" x="652" y="38">Cellular</XCUIElementTypeOther>
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" accessibilityLabel="3 of 3 Wi-Fi bars" class="UIAView" enabled="true" height="22" hidden="false" id="3 of 3 Wi-Fi bars" knownSuperClass="_UIStatusBarWifiSignalView" label="3 of 3 Wi-Fi bars" name="3 of 3 Wi-Fi bars" onScreen="true" text="3 of 3 Wi-Fi bars" top="true" value="SSID, 3 of 3 Wi-Fi bars" visible="true" width="32" x="698" y="38">3 of 3 Wi-Fi bars</XCUIElementTypeOther>
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="24" hidden="false" id="100% battery power" knownSuperClass="_UIBatteryView" label="100% battery power" name="100% battery power" onScreen="true" text="100% battery power" top="true" value="Not charging" visible="true" width="52" x="740" y="36">100% battery power</XCUIElementTypeOther>
+                                  
+              </XCUIElementTypeOther>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="652" y="28"/>
+                             
+            </XCUIElementTypeOther>
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="26" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="162" x="16" y="48"/>
+                        
+          </XCUIElementTypeOther>
+                   
+        </XCUIElementTypeStatusBar>
+              
+      </XCUIElementTypeWindow>
+         
+    </XCUIElementTypeApplication>
+    
+  </node>
+  
+</hierarchy>
+

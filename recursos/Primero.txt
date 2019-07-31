@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><hierarchy rotation="0">
+  <node onScreen="false" top="true" visible="false">
+       
+    <XCUIElementTypeApplication XCElementType="XCUIElementTypeApplication" bundleId="com.oldmutual.MobileApp" class="UIAView" enabled="true" height="1792" hidden="false" id="Skandia" knownSuperClass="UIApplication" label="Skandia" name="Skandia" onScreen="true" text="Skandia" top="true" value="Skandia" visible="true" width="828" x="0" y="0">
+      Skandia
+      <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                 
+        <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UILayoutContainerView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                      
+          <XCUIElementTypeNavigationBar XCElementType="XCUIElementTypeNavigationBar" class="UIANavigationBar" enabled="true" height="88" hidden="false" knownSuperClass="UINavigationBar" onScreen="true" top="true" visible="true" width="828" x="0" y="88"/>
+                      
+          <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UINavigationTransitionView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIViewControllerWrapperView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1548" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="176">
+                                          
+                  <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1548" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="176">
+                                               
+                    <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="426" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="812" x="16" y="176"/>
+                                               
+                    <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="logo" class="UIAImage" enabled="true" height="160" hidden="false" id="logo" knownSuperClass="UIImageView" label="logo" name="logo" onScreen="true" text="logo" top="true" value="logo" visible="true" width="812" x="16" y="310">logo</XCUIElementTypeImage>
+                                               
+                    <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icuserlogin" class="UIAImage" enabled="true" height="100" hidden="false" id="icuserlogin" knownSuperClass="UIImageView" label="icuserlogin" name="icuserlogin" onScreen="true" text="icuserlogin" top="true" value="icuserlogin" visible="true" width="758" x="24" y="640">icuserlogin</XCUIElementTypeImage>
+                                               
+                    <XCUIElementTypeTextField XCElementType="XCUIElementTypeTextField" class="UIATextField" enabled="true" height="100" hidden="false" knownSuperClass="UITextField" label="-112233000" onScreen="true" text="-112233000" top="true" value="-112233000" visible="true" width="588" x="120" y="640">-112233000</XCUIElementTypeTextField>
+                                               
+                    <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icpasslogin" class="UIAImage" enabled="true" height="100" hidden="false" id="icpasslogin" knownSuperClass="UIImageView" label="icpasslogin" name="icpasslogin" onScreen="true" text="icpasslogin" top="true" value="icpasslogin" visible="true" width="758" x="24" y="760">icpasslogin</XCUIElementTypeImage>
+                                               
+                    <XCUIElementTypeSecureTextField XCElementType="XCUIElementTypeSecureTextField" class="UIAView" enabled="true" height="100" hidden="false" knownSuperClass="UITextField" onScreen="true" top="true" visible="true" width="588" x="120" y="760"/>
+                                               
+                    <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="100" hidden="false" id="INICIAR SESIÓN" knownSuperClass="UIButton" label="INICIAR SESIÓN" name="INICIAR SESIÓN" onScreen="true" text="INICIAR SESIÓN" top="true" value="INICIAR SESIÓN" visible="true" width="758" x="24" y="876">INICIAR SESIÓN</XCUIElementTypeButton>
+                                               
+                    <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="36" hidden="false" id="Recordar mi usuario" knownSuperClass="UILabel" label="Recordar mi usuario" name="Recordar mi usuario" onScreen="true" text="Recordar mi usuario" top="true" value="Recordar mi usuario" visible="true" width="590" x="60" y="1008">Recordar mi usuario</XCUIElementTypeStaticText>
+                                               
+                    <XCUIElementTypeSwitch XCElementType="XCUIElementTypeSwitch" class="UIASwitch" enabled="true" height="62" hidden="false" knownSuperClass="UISwitch" label="1" onScreen="true" text="1" top="true" value="1" visible="true" width="102" x="670" y="994">1</XCUIElementTypeSwitch>
+                                               
+                    <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="100" hidden="false" id="¿Olvidó su contraseña?" knownSuperClass="UIButton" label="¿Olvidó su contraseña?" name="¿Olvidó su contraseña?" onScreen="true" text="¿Olvidó su contraseña?" top="true" value="¿Olvidó su contraseña?" visible="true" width="758" x="24" y="1284">¿Olvidó su contraseña?</XCUIElementTypeButton>
+                                               
+                    <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="150" hidden="false" id="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" knownSuperClass="UILabel" label="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" name="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" onScreen="true" text="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" top="true" value="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" visible="true" width="658" x="74" y="1374">"El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited."</XCUIElementTypeStaticText>
+                                               
+                    <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIStackView" onScreen="true" top="true" visible="true" width="748" x="40" y="1524">
+                                                    
+                      <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="180" x="40" y="1524">
+                                                         
+                        <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="CertificacionesOff" class="UIAImage" enabled="true" height="200" hidden="false" id="CertificacionesOff" knownSuperClass="UIImageView" label="CertificacionesOff" name="CertificacionesOff" onScreen="true" text="CertificacionesOff" top="true" value="CertificacionesOff" visible="true" width="180" x="40" y="1524">CertificacionesOff</XCUIElementTypeImage>
+                                                         
+                        <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="200" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="180" x="40" y="1524"/>
+                                                      
+                      </XCUIElementTypeOther>
+                                                    
+                      <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="180" x="228" y="1524">
+                                                         
+                        <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="Rentabilidad" class="UIAImage" enabled="true" height="200" hidden="false" id="Rentabilidad" knownSuperClass="UIImageView" label="Rentabilidad" name="Rentabilidad" onScreen="true" text="Rentabilidad" top="true" value="Rentabilidad" visible="true" width="180" x="228" y="1524">Rentabilidad</XCUIElementTypeImage>
+                                                         
+                        <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="200" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="180" x="228" y="1524"/>
+                                                      
+                      </XCUIElementTypeOther>
+                                                    
+                      <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="180" x="418" y="1524">
+                                                         
+                        <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="GuiaContacto" class="UIAImage" enabled="true" height="200" hidden="false" id="GuiaContacto" knownSuperClass="UIImageView" label="GuiaContacto" name="GuiaContacto" onScreen="true" text="GuiaContacto" top="true" value="GuiaContacto" visible="true" width="180" x="418" y="1524">GuiaContacto</XCUIElementTypeImage>
+                                                         
+                        <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="200" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="180" x="418" y="1524"/>
+                                                      
+                      </XCUIElementTypeOther>
+                                                    
+                      <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="180" x="606" y="1524">
+                                                         
+                        <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="Simulador" class="UIAImage" enabled="true" height="200" hidden="false" id="Simulador" knownSuperClass="UIImageView" label="Simulador" name="Simulador" onScreen="true" text="Simulador" top="true" value="Simulador" visible="true" width="180" x="606" y="1524">Simulador</XCUIElementTypeImage>
+                                                         
+                        <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="200" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="180" x="606" y="1524"/>
+                                                      
+                      </XCUIElementTypeOther>
+                                                 
+                    </XCUIElementTypeOther>
+                                            
+                  </XCUIElementTypeOther>
+                                       
+                </XCUIElementTypeOther>
+                                  
+              </XCUIElementTypeOther>
+                             
+            </XCUIElementTypeOther>
+                        
+          </XCUIElementTypeOther>
+                   
+        </XCUIElementTypeOther>
+              
+      </XCUIElementTypeWindow>
+            
+      <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIStatusBarWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                 
+        <XCUIElementTypeStatusBar XCElementType="XCUIElementTypeStatusBar" class="UIAStatusBar" enabled="true" height="88" hidden="false" knownSuperClass="UIStatusBar_Modern" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                      
+          <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="88" hidden="false" knownSuperClass="_UIStatusBar" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="88" hidden="false" knownSuperClass="_UIStatusBarForegroundView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="16" y="-8"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="420" y="-8"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="16" y="38"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="32" y="28">
+                                     
+                <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="38" hidden="false" id="9:00 AM" knownSuperClass="_UIStatusBarStringView" label="9:00 AM" name="9:00 AM" onScreen="true" text="9:00 AM" top="true" value="9:00 AM" visible="true" width="72" x="66" y="30">9:00 AM</XCUIElementTypeStaticText>
+                                  
+              </XCUIElementTypeOther>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="44" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="122" x="46" y="20"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="420" y="38"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="652" y="28">
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIATableCell" enabled="true" height="22" hidden="false" id="Cellular" knownSuperClass="_UIStatusBarCellularSignalView" label="Cellular" name="Cellular" onScreen="true" text="Cellular" top="true" value="No signal" visible="true" width="36" x="652" y="38">Cellular</XCUIElementTypeOther>
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" accessibilityLabel="3 of 3 Wi-Fi bars" class="UIAView" enabled="true" height="22" hidden="false" id="3 of 3 Wi-Fi bars" knownSuperClass="_UIStatusBarWifiSignalView" label="3 of 3 Wi-Fi bars" name="3 of 3 Wi-Fi bars" onScreen="true" text="3 of 3 Wi-Fi bars" top="true" value="SSID, 3 of 3 Wi-Fi bars" visible="true" width="32" x="698" y="38">3 of 3 Wi-Fi bars</XCUIElementTypeOther>
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="24" hidden="false" id="100% battery power" knownSuperClass="_UIBatteryView" label="100% battery power" name="100% battery power" onScreen="true" text="100% battery power" top="true" value="Not charging" visible="true" width="52" x="740" y="36">100% battery power</XCUIElementTypeOther>
+                                  
+              </XCUIElementTypeOther>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="652" y="28"/>
+                             
+            </XCUIElementTypeOther>
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="26" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="162" x="16" y="48"/>
+                        
+          </XCUIElementTypeOther>
+                   
+        </XCUIElementTypeStatusBar>
+              
+      </XCUIElementTypeWindow>
+         
+    </XCUIElementTypeApplication>
+    
+  </node>
+  
+</hierarchy>
+

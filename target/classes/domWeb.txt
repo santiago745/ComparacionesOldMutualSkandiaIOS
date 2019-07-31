@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style="">
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Home Page - My ASP.NET Application</title>
+    <link href="/Content/css?v=QJBN4IMhFAn89k2WtUoUlT7A-DjbW4AZZunOK9xfO341" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"/>
+
+</head>
+<body style="">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+                    <span class="icon-bar"/>
+                    <span class="icon-bar"/>
+                    <span class="icon-bar"/>
+                </button>
+                <a class="navbar-brand" href="/">Demo COBIS</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+              <a href="/">Home</a>
+            </li>
+                    <li>
+              <a href="/Home/About">About</a>
+            </li>
+                    <li>
+              <a href="/Home/Contact">Contact</a>
+            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        
+
+
+<div class="main-container">
+    <div class="cloud-image">
+        <img src="/assets/successCloudNew.svg"/>
+    </div>
+    <div class="content">
+        <div class="tweet-container">
+            <a href="http://twitter.com/intent/tweet/?text=I%20just%20created%20a%20new%20ASP.net%20website%20on%20Azure%20using%20Azure%20DevOps%20Project&amp;hashtags=AzureDevOpsProject%2CVSTS%20%40Azure%20%40VSTS">
+                <img src="/assets/tweetThis.svg"/>
+            </a>            
+        </div>
+        <div class="content-body">
+            <div class="success-text">Demo TEST 10/04/2019 V5.0.</div>
+            <div class="description line-1"> Somos PERIFERIA IT somos DEVOPS</div>
+            <div class="description line-2"> Your ASP.NET MVC app is up and running on Azure</div>
+        </div>
+    </div>
+</div>
+
+<div> <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/cpweKrgVJCc" width="560"/> </div>
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        
+        <h2>Get started right away </h2>
+        <p>
+            Azure DevOps.
+        </p>
+        <p>
+            <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?linkid=862409">Learn more »</a>
+          </p>
+    </div>
+    <div class="col-md-4">
+        
+        <h2>Musica</h2>
+        <p>Rock en español,</p>
+        <p>
+            <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?linkid=862410">Learn more »</a>
+          </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Azure DevOps Project</h2>
+        <p>Learn more about all you can do with Azure DevOps project by visiting the documentation</p>
+        <p>
+            <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?linkid=862126">Learn more »</a>
+          </p>
+    </div>
+</div>
+        <hr/>
+        <footer>
+            <p>© 2019 - ASP.NET Application</p>
+        </footer>
+    </div>
+
+    <script src="/bundles/jquery?v=FVs3ACwOLIVInrAl5sdzR2jrCDmVOWFbZMY6g6Q0ulE1"/>
+
+    <script src="/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1"/>
+
+    
+
+
+</body>
+</html>
+

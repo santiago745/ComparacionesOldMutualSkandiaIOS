@@ -1,0 +1,44 @@
+jul. 29, 2019 4:51:37 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: OSS
+jul. 29, 2019 4:51:37 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: setTimeout [9ce4a3e5-29e1-4b59-85d8-ae3ace1d95b5, setTimeout {implicit=30000}]
+jul. 29, 2019 4:51:38 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [9ce4a3e5-29e1-4b59-85d8-ae3ace1d95b5, setTimeout {implicit=30000}]
+jul. 29, 2019 4:51:38 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [9ce4a3e5-29e1-4b59-85d8-ae3ace1d95b5, findElement {using=xpath, value=//*[@text='Skandia']}]
+jul. 29, 2019 4:51:38 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [9ce4a3e5-29e1-4b59-85d8-ae3ace1d95b5, findElement {using=xpath, value=//*[@text='Skandia']}]
+jul. 29, 2019 4:51:38 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: clickElement [9ce4a3e5-29e1-4b59-85d8-ae3ace1d95b5, clickElement {id=32}]
+jul. 29, 2019 4:51:43 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [9ce4a3e5-29e1-4b59-85d8-ae3ace1d95b5, clickElement {id=32}]
+Exception in thread "main" org.openqa.selenium.WebDriverException: unknown error (An unknown server-side error occurred. status='false'. Failed to complete internal method: 'click args: [NATIVE, xpath=(//*[@text='Skandia'])[1], 0, 1]', details: Failed to click 'xpath=(//*[@text='Skandia'])[1]'. Cannot click. The element is found but not visible on Screen)  (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-de-Admin.local', ip: '172.16.17.59', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '12.0.1'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {appiumVersion: 1.8.0, autoAcceptAlerts: false, autoDismissAlerts: false, autoGrantPermissions: false, autoWebview: false, automationName: XCUITest, desired: {platformName: iOS, reportDirectory: reports, reportFormat: xml, testName: Untitled, udid: 44E81F56-C26F-4231-8254-9C9...}, device.category: PHONE, device.majorVersion: 12, device.manufacture: Apple, device.model: iPhone XR, device.name: iPhone XR, device.os: iOS, device.screenSize: 828x1792, device.serialNumber: 44E81F56-C26F-4231-8254-9C9..., device.version: 12.0, deviceUDID: 44E81F56-C26F-4231-8254-9C9..., dontGoHomeOnQuit: false, dontStopAppOnReset: false, fullReset: false, install.only.for.update: false, instrumentApp: false, javascriptEnabled: true, keystorePath: ~/.android/debug.keystore, locationServicesAuthorized: false, newSessionWaitTimeout: 300, noReset: false, platform: IOS, platformName: iOS, projectName: , reportDirectory: reports, reportFormat: xml, reportUrl: /Users/adminamin/appiumstud..., reservationDuration: 240, takeScreenshots: true, test.type: Emulator, testName: Untitled, udid: 44E81F56-C26F-4231-8254-9C9..., useKeystore: false, waitForDeviceTimeout: 120000}
+Session ID: 9ce4a3e5-29e1-4b59-85d8-ae3ace1d95b5
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at io.appium.java_client.DefaultGenericMobileElement.execute(DefaultGenericMobileElement.java:45)
+	at io.appium.java_client.MobileElement.execute(MobileElement.java:1)
+	at io.appium.java_client.ios.IOSElement.execute(IOSElement.java:1)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at apkDemo.appium.mobileDemo.Login(mobileDemo.java:25)
+	at apkDemo.appium.App.main(App.java:54)

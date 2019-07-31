@@ -1,0 +1,783 @@
+jul. 29, 2019 5:01:18 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: OSS
+jul. 29, 2019 5:01:18 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: setTimeout [fb01442c-d346-4248-b7c5-82371be39997, setTimeout {implicit=30000}]
+jul. 29, 2019 5:01:18 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, setTimeout {implicit=30000}]
+jul. 29, 2019 5:01:18 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [fb01442c-d346-4248-b7c5-82371be39997, findElement {using=xpath, value=//*[@text='Skandia']}]
+jul. 29, 2019 5:01:18 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, findElement {using=xpath, value=//*[@text='Skandia']}]
+jul. 29, 2019 5:01:18 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: clickElement [fb01442c-d346-4248-b7c5-82371be39997, clickElement {id=34}]
+jul. 29, 2019 5:01:19 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, clickElement {id=34}]
+jul. 29, 2019 5:01:24 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: getPageSource [fb01442c-d346-4248-b7c5-82371be39997, getPageSource {}]
+jul. 29, 2019 5:01:24 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, getPageSource {}]
+Se encontró una diferencia en la linea 1
+Dom original: <?xml version="1.0" encoding="UTF-8"?><hierarchy class="hierarchy" height="2068" index="0" rotation="0" width="1080">
+Dom actual: <?xml version="1.0" encoding="UTF-8"?><hierarchy rotation="0">
+Diferencia: (rchy class) --- (rchy rotat)
+---------------------------------
+Se encontró una diferencia en la linea 2
+Dom original:   <android.widget.FrameLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.FrameLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:   <node onScreen="false" top="true" visible="false">
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 3
+Dom original:     <android.widget.LinearLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:        
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 4
+Dom original:       <android.widget.FrameLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.FrameLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:     <XCUIElementTypeApplication XCElementType="XCUIElementTypeApplication" bundleId="com.oldmutual.MobileApp" class="UIAView" enabled="true" height="1792" hidden="false" id="Skandia" knownSuperClass="UIApplication" label="Skandia" name="Skandia" onScreen="true" text="Skandia" top="true" value="Skandia" visible="true" width="828" x="0" y="0">
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 5
+Dom original:         <android.widget.LinearLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/action_bar_root" scrollable="false" selected="false" text="">
+Dom actual:       Skandia
+Diferencia: (       <an) --- (     Skand)
+---------------------------------
+Se encontró una diferencia en la linea 6
+Dom original:           <android.widget.FrameLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.FrameLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="android:id/content" scrollable="false" selected="false" text="">
+Dom actual:       <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: (         <) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 7
+Dom original:             <android.widget.LinearLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                  
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 8
+Dom original:               <android.widget.LinearLayout bounds="[0,82][1080,495]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/container0" scrollable="false" selected="false" text="">
+Dom actual:         <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UILayoutContainerView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: (          ) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 9
+Dom original:                 <android.widget.ImageView bounds="[0,220][1080,495]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView2" scrollable="false" selected="false" text=""/>
+Dom actual:                       
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 10
+Dom original:               </android.widget.LinearLayout>
+Dom actual:           <XCUIElementTypeNavigationBar XCElementType="XCUIElementTypeNavigationBar" class="UIANavigationBar" enabled="true" height="88" hidden="false" knownSuperClass="UINavigationBar" onScreen="true" top="true" visible="true" width="828" x="0" y="88"/>
+Diferencia: (         <) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 11
+Dom original:               <android.widget.LinearLayout bounds="[0,578][1080,1540]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/container1" scrollable="false" selected="false" text="">
+Dom actual:                       
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 12
+Dom original:                 <android.widget.EditText bounds="[44,650][1036,760]" checkable="false" checked="false" class="android.widget.EditText" clickable="true" displayed="true" enabled="true" focusable="true" focused="true" index="0" long-clickable="true" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/txtUser" scrollable="false" selected="false" text="-112233000"/>
+Dom actual:           <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UINavigationTransitionView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: (          ) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 13
+Dom original:                 <android.widget.EditText bounds="[44,788][1036,898]" checkable="false" checked="false" class="android.widget.EditText" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="1" long-clickable="true" package="com.oldmutual.mobileapp" password="true" resource-id="com.oldmutual.mobileapp:id/txtPassword" scrollable="false" selected="false" text="••"/>
+Dom actual:                            
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 14
+Dom original:                 <android.widget.Button bounds="[44,926][1036,1036]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/login" scrollable="false" selected="false" text="INGRESAR"/>
+Dom actual:             <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIViewControllerWrapperView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: (         <) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 15
+Dom original:                 <android.widget.CheckBox bounds="[44,1064][1022,1152]" checkable="true" checked="false" class="android.widget.CheckBox" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/checkRemember" scrollable="false" selected="false" text="Recordar mi usuario"/>
+Dom actual:                                 
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 16
+Dom original:                 <android.widget.LinearLayout bounds="[296,1262][784,1331]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="4" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_forgot" scrollable="false" selected="false" text="">
+Dom actual:               <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: (       <an) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 17
+Dom original:                   <android.widget.ImageView bounds="[296,1262][365,1331]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                                      
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 18
+Dom original:                   <android.widget.TextView bounds="[365,1262][784,1318]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/textView2" scrollable="false" selected="false" text="¿Olvidó su contraseña?"/>
+Dom actual:                 <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1548" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="176">
+Diferencia: (       <an) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 19
+Dom original:                 </android.widget.LinearLayout>
+Dom actual:                                           
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 20
+Dom original:                 <android.widget.TextView bounds="[44,1359][1036,1496]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="5" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/DisclaimerLogin" scrollable="false" selected="false" text="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;"/>
+Dom actual:                   <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1548" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="176">
+Diferencia: (     <andr) --- (       <XC)
+---------------------------------
+Se encontró una diferencia en la linea 21
+Dom original:               </android.widget.LinearLayout>
+Dom actual:                                                
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 22
+Dom original:               <android.widget.LinearLayout bounds="[0,1540][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="426" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="812" x="16" y="176"/>
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 23
+Dom original:                 <android.widget.RelativeLayout bounds="[0,1980][1080,2068]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                                                
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 24
+Dom original:                   <android.widget.LinearLayout bounds="[0,1980][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="logo" class="UIAImage" enabled="true" height="160" hidden="false" id="logo" knownSuperClass="UIImageView" label="logo" name="logo" onScreen="true" text="logo" top="true" value="logo" visible="true" width="812" x="16" y="310">logo</XCUIElementTypeImage>
+Diferencia: (     <andr) --- (       <XC)
+---------------------------------
+Se encontró una diferencia en la linea 25
+Dom original:                     <android.widget.Button bounds="[0,1980][270,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_Certificados" scrollable="false" selected="false" text=""/>
+Dom actual:                                                
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 26
+Dom original:                     <android.widget.Button bounds="[270,1980][540,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_profitability" scrollable="false" selected="false" text=""/>
+Dom actual:                     <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icuserlogin" class="UIAImage" enabled="true" height="100" hidden="false" id="icuserlogin" knownSuperClass="UIImageView" label="icuserlogin" name="icuserlogin" onScreen="true" text="icuserlogin" top="true" value="icuserlogin" visible="true" width="758" x="24" y="640">icuserlogin</XCUIElementTypeImage>
+Diferencia: (    <andro) --- (    <XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 27
+Dom original:                     <android.widget.Button bounds="[540,1980][810,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_channelGuide" scrollable="false" selected="false" text=""/>
+Dom actual:                                                
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 28
+Dom original:                     <android.widget.Button bounds="[810,1980][1080,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_simulator" scrollable="false" selected="false" text=""/>
+Dom actual:                     <XCUIElementTypeTextField XCElementType="XCUIElementTypeTextField" class="UIATextField" enabled="true" height="100" hidden="false" knownSuperClass="UITextField" label="12" onScreen="true" text="12" top="true" value="12" visible="true" width="588" x="120" y="640">12</XCUIElementTypeTextField>
+Diferencia: (    <andro) --- (    <XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 29
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                                                
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 30
+Dom original:                   <android.widget.LinearLayout bounds="[0,1980][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icpasslogin" class="UIAImage" enabled="true" height="100" hidden="false" id="icpasslogin" knownSuperClass="UIImageView" label="icpasslogin" name="icpasslogin" onScreen="true" text="icpasslogin" top="true" value="icpasslogin" visible="true" width="758" x="24" y="760">icpasslogin</XCUIElementTypeImage>
+Diferencia: (     <andr) --- (       <XC)
+---------------------------------
+Se encontró una diferencia en la linea 31
+Dom original:                     <android.widget.ImageView bounds="[0,1980][270,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView9" scrollable="false" selected="false" text=""/>
+Dom actual:                                                
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 32
+Dom original:                     <android.widget.ImageView bounds="[270,1980][540,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView8" scrollable="false" selected="false" text=""/>
+Dom actual:                     <XCUIElementTypeSecureTextField XCElementType="XCUIElementTypeSecureTextField" class="UIAView" enabled="true" height="100" hidden="false" knownSuperClass="UITextField" onScreen="true" top="true" visible="true" width="588" x="120" y="760"/>
+Diferencia: (    <andro) --- (    <XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 33
+Dom original:                     <android.widget.ImageView bounds="[540,1980][810,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView7" scrollable="false" selected="false" text=""/>
+Dom actual:                                                
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 34
+Dom original:                     <android.widget.ImageView bounds="[810,1980][1080,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView6" scrollable="false" selected="false" text=""/>
+Dom actual:                     <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="100" hidden="false" id="INICIAR SESIÓN" knownSuperClass="UIButton" label="INICIAR SESIÓN" name="INICIAR SESIÓN" onScreen="true" text="INICIAR SESIÓN" top="true" value="INICIAR SESIÓN" visible="true" width="758" x="24" y="876">INICIAR SESIÓN</XCUIElementTypeButton>
+Diferencia: (    <andro) --- (    <XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 35
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                                                
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 36
+Dom original:                 </android.widget.RelativeLayout>
+Dom actual:                     <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="36" hidden="false" id="Recordar mi usuario" knownSuperClass="UILabel" label="Recordar mi usuario" name="Recordar mi usuario" onScreen="true" text="Recordar mi usuario" top="true" value="Recordar mi usuario" visible="true" width="590" x="60" y="1008">Recordar mi usuario</XCUIElementTypeStaticText>
+Diferencia: (     </and) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 37
+Dom original:               </android.widget.LinearLayout>
+Dom actual:                                                
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 38
+Dom original:             </android.widget.LinearLayout>
+Dom actual:                     <XCUIElementTypeSwitch XCElementType="XCUIElementTypeSwitch" class="UIASwitch" enabled="true" height="62" hidden="false" knownSuperClass="UISwitch" label="1" onScreen="true" text="1" top="true" value="1" visible="true" width="102" x="670" y="994">1</XCUIElementTypeSwitch>
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 39
+Dom original:           </android.widget.FrameLayout>
+Dom actual:                                                
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 40
+Dom original:         </android.widget.LinearLayout>
+Dom actual:                     <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="100" hidden="false" id="¿Olvidó su contraseña?" knownSuperClass="UIButton" label="¿Olvidó su contraseña?" name="¿Olvidó su contraseña?" onScreen="true" text="¿Olvidó su contraseña?" top="true" value="¿Olvidó su contraseña?" visible="true" width="758" x="24" y="1284">¿Olvidó su contraseña?</XCUIElementTypeButton>
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 41
+Dom original:       </android.widget.FrameLayout>
+Dom actual:                                                
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 42
+Dom original:     </android.widget.LinearLayout>
+Dom actual:                     <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="150" hidden="false" knownSuperClass="UILabel" onScreen="true" top="true" visible="true" width="658" x="74" y="1374"/>
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 43
+Dom original:   </android.widget.FrameLayout>
+Dom actual:                                                
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 44
+Dom original: </hierarchy>
+Dom actual:                     <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIStackView" onScreen="true" top="true" visible="true" width="748" x="40" y="1524">
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 45
+Dom original: 
+Dom actual:                                                     
+Diferencia: () --- ()
+---------------------------------
+jul. 29, 2019 5:01:25 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: screenshot [fb01442c-d346-4248-b7c5-82371be39997, screenshot {}]
+jul. 29, 2019 5:01:25 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, screenshot {}]
+Comparando imagenes de look and feel
+Error: Las dimensiones de la imagen son distintas
+jul. 29, 2019 5:01:26 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: screenshot [fb01442c-d346-4248-b7c5-82371be39997, screenshot {}]
+jul. 29, 2019 5:01:27 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, screenshot {}]
+jul. 29, 2019 5:01:27 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [fb01442c-d346-4248-b7c5-82371be39997, findElement {using=xpath, value=//*[@class='UIAButton' and (./preceding-sibling::* | ./following-sibling::*)[@text='CertificacionesOff']]}]
+jul. 29, 2019 5:01:27 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, findElement {using=xpath, value=//*[@class='UIAButton' and (./preceding-sibling::* | ./following-sibling::*)[@text='CertificacionesOff']]}]
+jul. 29, 2019 5:01:27 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: clickElement [fb01442c-d346-4248-b7c5-82371be39997, clickElement {id=35}]
+jul. 29, 2019 5:01:27 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, clickElement {id=35}]
+jul. 29, 2019 5:01:27 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: getPageSource [fb01442c-d346-4248-b7c5-82371be39997, getPageSource {}]
+jul. 29, 2019 5:01:28 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, getPageSource {}]
+Se encontró una diferencia en la linea 1
+Dom original: <?xml version="1.0" encoding="UTF-8"?><hierarchy class="hierarchy" height="2068" index="0" rotation="0" width="1080">
+Dom actual: <?xml version="1.0" encoding="UTF-8"?><hierarchy rotation="0">
+Diferencia: (rchy class) --- (rchy rotat)
+---------------------------------
+Se encontró una diferencia en la linea 2
+Dom original:   <android.widget.FrameLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.FrameLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:   <node onScreen="false" top="true" visible="false">
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 3
+Dom original:     <android.widget.LinearLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:        
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 4
+Dom original:       <android.widget.FrameLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.FrameLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:     <XCUIElementTypeApplication XCElementType="XCUIElementTypeApplication" bundleId="com.oldmutual.MobileApp" class="UIAView" enabled="true" height="1792" hidden="false" id="Skandia" knownSuperClass="UIApplication" label="Skandia" name="Skandia" onScreen="true" text="Skandia" top="true" value="Skandia" visible="true" width="828" x="0" y="0">
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 5
+Dom original:         <android.widget.LinearLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/action_bar_root" scrollable="false" selected="false" text="">
+Dom actual:       Skandia
+Diferencia: (       <an) --- (     Skand)
+---------------------------------
+Se encontró una diferencia en la linea 6
+Dom original:           <android.widget.FrameLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.FrameLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="android:id/content" scrollable="false" selected="false" text="">
+Dom actual:       <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: (         <) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 7
+Dom original:             <android.widget.LinearLayout bounds="[0,0][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                  
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 8
+Dom original:               <android.view.ViewGroup bounds="[0,82][1080,236]" checkable="false" checked="false" class="android.view.ViewGroup" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/my_awesome_toolbar" scrollable="false" selected="false" text="">
+Dom actual:         <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UILayoutContainerView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: (          ) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 9
+Dom original:                 <android.widget.ImageButton bounds="[0,82][154,236]" checkable="false" checked="false" class="android.widget.ImageButton" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                       
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 10
+Dom original:                 <android.widget.TextView bounds="[198,122][709,196]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Canales de Contacto"/>
+Dom actual:           <XCUIElementTypeNavigationBar XCElementType="XCUIElementTypeNavigationBar" accessibilityLabel="Certificados sin Clave" class="UIANavigationBar" enabled="true" height="88" hidden="false" id="Certificados sin Clave" knownSuperClass="UINavigationBar" label="Certificados sin Clave" name="Certificados sin Clave" onScreen="true" text="Certificados sin Clave" top="true" value="Certificados sin Clave" visible="true" width="828" x="0" y="88">
+Diferencia: (          ) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 11
+Dom original:               </android.view.ViewGroup>
+Dom actual:             Certificados sin Clave
+Diferencia: (       </a) --- (     Certi)
+---------------------------------
+Se encontró una diferencia en la linea 12
+Dom original:               <android.widget.ScrollView bounds="[0,236][1080,2068]" checkable="false" checked="false" class="android.widget.ScrollView" clickable="false" displayed="true" enabled="true" focusable="true" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/scrollViewChannel" scrollable="true" selected="false" text="">
+Dom actual:             <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="88" hidden="false" knownSuperClass="_UIButtonBarButton" onScreen="true" top="true" visible="true" width="88" x="0" y="88"/>
+Diferencia: (       <an) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 13
+Dom original:                 <android.widget.LinearLayout bounds="[0,236][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                            
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 14
+Dom original:                   <android.widget.LinearLayout bounds="[0,236][1080,682]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:             <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="40" hidden="false" id="Certificados sin Clave" knownSuperClass="UILabel" label="Certificados sin Clave" name="Certificados sin Clave" onScreen="true" text="Certificados sin Clave" top="true" value="Certificados sin Clave" visible="true" width="348" x="240" y="112">Certificados sin Clave</XCUIElementTypeOther>
+Diferencia: (          ) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 15
+Dom original:                     <android.widget.TextView bounds="[41,277][1039,514]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvInfo" scrollable="false" selected="false" text="En    esta   sección   podrá   comunicarse   con    el    centro    de servicios  mediante   una   llamada   telefónica  o   un   correo electrónico en el horario de lunes a viernes de 8:00 a.m. a 7:00  p.m.  (jornada   continua)   y   sábados   de   9:00  a.m.  a 1:00 p.m. "/>
+Dom actual:                         
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 16
+Dom original:                     <android.widget.TextView bounds="[41,514][1039,641]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvInfo2" scrollable="false" selected="false" text="Recuerde  que  existen  contáctos  para  persona  natural  y  para empresas. "/>
+Dom actual:           </XCUIElementTypeNavigationBar>
+Diferencia: (          ) --- (     </XCU)
+---------------------------------
+Se encontró una diferencia en la linea 17
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                       
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 18
+Dom original:                   <android.widget.LinearLayout bounds="[0,682][1080,796]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:           <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UINavigationTransitionView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: (          ) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 19
+Dom original:                     <android.widget.TextView bounds="[41,737][497,796]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle0" scrollable="false" selected="false" text="Línea Nacional Gratuita"/>
+Dom actual:                            
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 20
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:             <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIViewControllerWrapperView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: (          ) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 21
+Dom original:                   <android.widget.LinearLayout bounds="[0,796][1080,989]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idNationalLine" scrollable="false" selected="false" text="">
+Dom actual:                                 
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 22
+Dom original:                     <android.widget.RelativeLayout bounds="[28,796][215,989]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:               <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="-248" y="0">
+Diferencia: (          ) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 23
+Dom original:                       <android.widget.ImageView bounds="[28,858][152,927]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                                      
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 24
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                 <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="-248" y="0">
+Diferencia: (         <) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 25
+Dom original:                     <android.widget.RelativeLayout bounds="[215,796][1053,989]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                                           
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 26
+Dom original:                       <android.widget.TextView bounds="[229,837][493,892]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhoneNationalLine" scrollable="false" selected="false" text="018000517526"/>
+Dom actual:                   <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1548" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="-248" y="176">
+Diferencia: (         <) --- (     <XCUI)
+---------------------------------
+Se encontró una diferencia en la linea 27
+Dom original:                       <android.widget.TextView bounds="[229,892][381,947]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Dom actual:                                                
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 28
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                     <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1548" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="-248" y="176">
+Diferencia: (    </andr) --- (    <XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 29
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                                                     
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 30
+Dom original:                   <android.widget.LinearLayout bounds="[193,989][1080,992]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                       <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="426" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="812" x="-232" y="176"/>
+Diferencia: (     <andr) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 31
+Dom original:                   <android.widget.LinearLayout bounds="[0,992][1080,1106]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="4" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                                                     
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 32
+Dom original:                     <android.widget.TextView bounds="[41,1047][425,1106]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle1" scrollable="false" selected="false" text="Personas Naturales"/>
+Dom actual:                       <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="logo" class="UIAImage" enabled="true" height="160" hidden="false" id="logo" knownSuperClass="UIImageView" label="logo" name="logo" onScreen="true" text="logo" top="true" value="logo" visible="true" width="812" x="-232" y="310">logo</XCUIElementTypeImage>
+Diferencia: (     <andr) --- (       <XC)
+---------------------------------
+Se encontró una diferencia en la linea 33
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                                                     
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 34
+Dom original:                   <android.widget.LinearLayout bounds="[0,1106][1080,1299]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="5" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idPhoneNaturalPerson" scrollable="false" selected="false" text="">
+Dom actual:                       <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icuserlogin" class="UIAImage" enabled="true" height="100" hidden="false" id="icuserlogin" knownSuperClass="UIImageView" label="icuserlogin" name="icuserlogin" onScreen="true" text="icuserlogin" top="true" value="icuserlogin" visible="true" width="758" x="-222" y="640">icuserlogin</XCUIElementTypeImage>
+Diferencia: (     <andr) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 35
+Dom original:                     <android.widget.RelativeLayout bounds="[28,1106][215,1299]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                                                     
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 36
+Dom original:                       <android.widget.ImageView bounds="[28,1168][152,1237]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/icon_phone1" scrollable="false" selected="false" text=""/>
+Dom actual:                       <XCUIElementTypeTextField XCElementType="XCUIElementTypeTextField" class="UIATextField" enabled="true" height="100" hidden="false" knownSuperClass="UITextField" label="12" onScreen="true" text="12" top="true" value="12" visible="true" width="588" x="-128" y="640">12</XCUIElementTypeTextField>
+Diferencia: (    <andro) --- (    <XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 37
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                                                     
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 38
+Dom original:                     <android.widget.RelativeLayout bounds="[215,1106][1053,1299]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                       <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icpasslogin" class="UIAImage" enabled="true" height="100" hidden="false" id="icpasslogin" knownSuperClass="UIImageView" label="icpasslogin" name="icpasslogin" onScreen="true" text="icpasslogin" top="true" value="icpasslogin" visible="true" width="758" x="-222" y="760">icpasslogin</XCUIElementTypeImage>
+Diferencia: (     <andr) --- (       <XC)
+---------------------------------
+Se encontró una diferencia en la linea 39
+Dom original:                       <android.widget.TextView bounds="[229,1147][620,1202]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhone1" scrollable="false" selected="false" text="Bogotá (031) 6584000"/>
+Dom actual:                                                     
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 40
+Dom original:                       <android.widget.TextView bounds="[229,1202][381,1257]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Dom actual:                       <XCUIElementTypeSecureTextField XCElementType="XCUIElementTypeSecureTextField" class="UIAView" enabled="true" height="100" hidden="false" knownSuperClass="UITextField" onScreen="true" top="true" visible="true" width="588" x="-128" y="760"/>
+Diferencia: (    <andro) --- (    <XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 41
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                                                     
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 42
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                       <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="100" hidden="false" id="INICIAR SESIÓN" knownSuperClass="UIButton" label="INICIAR SESIÓN" name="INICIAR SESIÓN" onScreen="true" text="INICIAR SESIÓN" top="true" value="INICIAR SESIÓN" visible="true" width="758" x="-222" y="876">INICIAR SESIÓN</XCUIElementTypeButton>
+Diferencia: (     </and) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 43
+Dom original:                   <android.widget.LinearLayout bounds="[193,1299][1080,1302]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="6" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                                                     
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 44
+Dom original:                   <android.widget.LinearLayout bounds="[0,1302][1080,1495]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="7" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idPhoneNaturalPersontwo" scrollable="false" selected="false" text="">
+Dom actual:                       <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="36" hidden="false" id="Recordar mi usuario" knownSuperClass="UILabel" label="Recordar mi usuario" name="Recordar mi usuario" onScreen="true" text="Recordar mi usuario" top="true" value="Recordar mi usuario" visible="true" width="590" x="-188" y="1008">Recordar mi usuario</XCUIElementTypeStaticText>
+Diferencia: (     <andr) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 45
+Dom original:                     <android.widget.RelativeLayout bounds="[28,1302][215,1495]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                                                     
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 46
+Dom original:                       <android.widget.ImageView bounds="[28,1364][152,1433]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/icon_phone2" scrollable="false" selected="false" text=""/>
+Dom actual:                       <XCUIElementTypeSwitch XCElementType="XCUIElementTypeSwitch" class="UIASwitch" enabled="true" height="62" hidden="false" knownSuperClass="UISwitch" label="1" onScreen="true" text="1" top="true" value="1" visible="true" width="102" x="422" y="994">1</XCUIElementTypeSwitch>
+Diferencia: (    <andro) --- (    <XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 47
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                                                     
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 48
+Dom original:                     <android.widget.RelativeLayout bounds="[215,1302][1053,1495]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                       <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="100" hidden="false" id="¿Olvidó su contraseña?" knownSuperClass="UIButton" label="¿Olvidó su contraseña?" name="¿Olvidó su contraseña?" onScreen="true" text="¿Olvidó su contraseña?" top="true" value="¿Olvidó su contraseña?" visible="true" width="758" x="-222" y="1284">¿Olvidó su contraseña?</XCUIElementTypeButton>
+Diferencia: (     <andr) --- (       <XC)
+---------------------------------
+Se encontró una diferencia en la linea 49
+Dom original:                       <android.widget.TextView bounds="[229,1343][620,1398]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhone2" scrollable="false" selected="false" text="Bogotá (031) 4841300"/>
+Dom actual:                                                     
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 50
+Dom original:                       <android.widget.TextView bounds="[229,1398][381,1453]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Dom actual:                       <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="150" hidden="false" id="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" knownSuperClass="UILabel" label="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" name="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" onScreen="true" text="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" top="true" value="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;" visible="true" width="658" x="-172" y="1374">"El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited."</XCUIElementTypeStaticText>
+Diferencia: (    <andro) --- (    <XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 51
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                                                     
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 52
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                       <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIStackView" onScreen="true" top="true" visible="true" width="748" x="-208" y="1524">
+Diferencia: (     </and) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 53
+Dom original:                   <android.widget.LinearLayout bounds="[193,1495][1080,1498]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="8" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                                                          
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 54
+Dom original:                   <android.widget.LinearLayout bounds="[0,1498][1080,1691]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="9" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idMailNaturalPerson" scrollable="false" selected="false" text="">
+Dom actual:                         <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIView" onScreen="false" top="true" visible="false" width="180" x="-208" y="1524">
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 55
+Dom original:                     <android.widget.RelativeLayout bounds="[28,1498][215,1691]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                                                               
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 56
+Dom original:                       <android.widget.ImageView bounds="[28,1560][152,1629]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                           <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="CertificacionesOff" class="UIAImage" enabled="true" height="200" hidden="false" id="CertificacionesOff" knownSuperClass="UIImageView" label="CertificacionesOff" name="CertificacionesOff" onScreen="false" text="CertificacionesOff" top="true" value="CertificacionesOff" visible="false" width="180" x="-208" y="1524">CertificacionesOff</XCUIElementTypeImage>
+Diferencia: (     <andr) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 57
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                                                               
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 58
+Dom original:                     <android.widget.RelativeLayout bounds="[215,1498][1053,1691]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                           <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="200" hidden="false" knownSuperClass="UIButton" onScreen="false" top="true" visible="false" width="180" x="-208" y="1524"/>
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 59
+Dom original:                       <android.widget.TextView bounds="[229,1541][691,1594]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/mail1" scrollable="false" selected="false" text="cliente@oldmutual.com.co"/>
+Dom actual:                                                            
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 60
+Dom original:                       <android.widget.TextView bounds="[229,1594][548,1647]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Correo Electrónico"/>
+Dom actual:                         </XCUIElementTypeOther>
+Diferencia: (     <andr) --- (       </X)
+---------------------------------
+Se encontró una diferencia en la linea 61
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                                                          
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 62
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                         <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="180" x="-18" y="1524">
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 63
+Dom original:                   <android.widget.LinearLayout bounds="[0,1691][1080,1805]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="11" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                                                               
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 64
+Dom original:                     <android.widget.TextView bounds="[41,1746][442,1805]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle2" scrollable="false" selected="false" text="Servicio Empresarial"/>
+Dom actual:                           <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="Rentabilidad" class="UIAImage" enabled="true" height="200" hidden="false" id="Rentabilidad" knownSuperClass="UIImageView" label="Rentabilidad" name="Rentabilidad" onScreen="true" text="Rentabilidad" top="true" value="Rentabilidad" visible="true" width="180" x="-18" y="1524">Rentabilidad</XCUIElementTypeImage>
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 65
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                                                               
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 66
+Dom original:                   <android.widget.LinearLayout bounds="[0,1805][1080,1998]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="12" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idPhoneBusinessService" scrollable="false" selected="false" text="">
+Dom actual:                           <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="200" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="180" x="-18" y="1524"/>
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 67
+Dom original:                     <android.widget.RelativeLayout bounds="[28,1805][215,1998]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                                                            
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 68
+Dom original:                       <android.widget.ImageView bounds="[28,1867][152,1936]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                         </XCUIElementTypeOther>
+Diferencia: (     <andr) --- (       </X)
+---------------------------------
+Se encontró una diferencia en la linea 69
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                                                          
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 70
+Dom original:                     <android.widget.RelativeLayout bounds="[215,1805][1053,1998]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                         <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="180" x="170" y="1524">
+Diferencia: (     <andr) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 71
+Dom original:                       <android.widget.TextView bounds="[229,1846][620,1901]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhoneBusinessService" scrollable="false" selected="false" text="Bogotá (031) 6584123"/>
+Dom actual:                                                               
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 72
+Dom original:                       <android.widget.TextView bounds="[229,1901][381,1956]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Dom actual:                           <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="GuiaContacto" class="UIAImage" enabled="true" height="200" hidden="false" id="GuiaContacto" knownSuperClass="UIImageView" label="GuiaContacto" name="GuiaContacto" onScreen="true" text="GuiaContacto" top="true" value="GuiaContacto" visible="true" width="180" x="170" y="1524">GuiaContacto</XCUIElementTypeImage>
+Diferencia: (     <andr) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 73
+Dom original:                     </android.widget.RelativeLayout>
+Dom actual:                                                               
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 74
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                           <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="200" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="180" x="170" y="1524"/>
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 75
+Dom original:                   <android.widget.LinearLayout bounds="[193,1998][1080,2001]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="13" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                                                            
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 76
+Dom original:                   <android.widget.LinearLayout bounds="[0,2001][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="14" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                         </XCUIElementTypeOther>
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 77
+Dom original:                     <android.widget.LinearLayout bounds="[0,2001][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idMailBusinessService" scrollable="false" selected="false" text="">
+Dom actual:                                                          
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 78
+Dom original:                       <android.widget.RelativeLayout bounds="[28,2001][215,2068]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                         <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="200" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="180" x="358" y="1524">
+Diferencia: (     <andr) --- (       <XC)
+---------------------------------
+Se encontró una diferencia en la linea 79
+Dom original:                         <android.widget.ImageView bounds="[28,2063][152,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/icon_mail" scrollable="false" selected="false" text=""/>
+Dom actual:                                                               
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 80
+Dom original:                       </android.widget.RelativeLayout>
+Dom actual:                           <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="Simulador" class="UIAImage" enabled="true" height="200" hidden="false" id="Simulador" knownSuperClass="UIImageView" label="Simulador" name="Simulador" onScreen="true" text="Simulador" top="true" value="Simulador" visible="true" width="180" x="358" y="1524">Simulador</XCUIElementTypeImage>
+Diferencia: (     </and) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 81
+Dom original:                       <android.widget.RelativeLayout bounds="[215,2001][1053,2068]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                                                               
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 82
+Dom original:                         <android.widget.TextView bounds="[229,2044][861,2068]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/mailBusinessService" scrollable="false" selected="false" text="servicioempresa@oldmutual.com.co"/>
+Dom actual:                           <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="200" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="180" x="358" y="1524"/>
+Diferencia: (     <andr) --- (       <XC)
+---------------------------------
+Se encontró una diferencia en la linea 83
+Dom original:                         <android.widget.TextView bounds="[229,2097][548,2150]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Correo Electrónico"/>
+Dom actual:                                                            
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 84
+Dom original:                       </android.widget.RelativeLayout>
+Dom actual:                         </XCUIElementTypeOther>
+Diferencia: (     </and) --- (       </X)
+---------------------------------
+Se encontró una diferencia en la linea 85
+Dom original:                     </android.widget.LinearLayout>
+Dom actual:                                                       
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 86
+Dom original:                     <android.widget.LinearLayout bounds="[0,2194][1080,2280]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                       </XCUIElementTypeOther>
+Diferencia: (     <andr) --- (       </X)
+---------------------------------
+Se encontró una diferencia en la linea 87
+Dom original:                       <android.widget.TextView bounds="[41,2249][336,2280]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Redes sociales"/>
+Dom actual:                                                  
+Diferencia: (     <andr) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 88
+Dom original:                     </android.widget.LinearLayout>
+Dom actual:                     </XCUIElementTypeOther>
+Diferencia: (   </andro) --- (   </XCUIE)
+---------------------------------
+Se encontró una diferencia en la linea 89
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                                             
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 90
+Dom original:                 </android.widget.LinearLayout>
+Dom actual:                   </XCUIElementTypeOther>
+Diferencia: (     </and) --- (       </X)
+---------------------------------
+Se encontró una diferencia en la linea 91
+Dom original:               </android.widget.ScrollView>
+Dom actual:                                        
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 92
+Dom original:             </android.widget.LinearLayout>
+Dom actual:                 </XCUIElementTypeOther>
+Diferencia: (     </and) --- (         <)
+---------------------------------
+Se encontró una diferencia en la linea 93
+Dom original:           </android.widget.FrameLayout>
+Dom actual:                                   
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 94
+Dom original:         </android.widget.LinearLayout>
+Dom actual:               </XCUIElementTypeOther>
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 95
+Dom original:       </android.widget.FrameLayout>
+Dom actual:                                 
+Diferencia: (     </and) --- (          )
+---------------------------------
+Se encontró una diferencia en la linea 96
+Dom original:     </android.widget.LinearLayout>
+Dom actual:               <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="_UIParallaxDimmingView" onScreen="true" top="true" visible="true" width="828" x="0" y="0"/>
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 97
+Dom original:   </android.widget.FrameLayout>
+Dom actual:                                 
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 98
+Dom original: </hierarchy>
+Dom actual:               <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 99
+Dom original: 
+Dom actual:                                      
+Diferencia: () --- ()
+---------------------------------
+jul. 29, 2019 5:01:28 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: screenshot [fb01442c-d346-4248-b7c5-82371be39997, screenshot {}]
+jul. 29, 2019 5:01:28 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, screenshot {}]
+Comparando imagenes de look and feel
+Error: Las dimensiones de la imagen son distintas
+jul. 29, 2019 5:01:28 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: screenshot [fb01442c-d346-4248-b7c5-82371be39997, screenshot {}]
+jul. 29, 2019 5:01:29 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, screenshot {}]
+jul. 29, 2019 5:01:29 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [fb01442c-d346-4248-b7c5-82371be39997, findElement {using=xpath, value=//*[@text='Back']}]
+jul. 29, 2019 5:01:29 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, findElement {using=xpath, value=//*[@text='Back']}]
+jul. 29, 2019 5:01:29 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: clickElement [fb01442c-d346-4248-b7c5-82371be39997, clickElement {id=36}]
+jul. 29, 2019 5:01:29 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, clickElement {id=36}]
+jul. 29, 2019 5:01:29 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: quit [fb01442c-d346-4248-b7c5-82371be39997, quit {}]
+jul. 29, 2019 5:01:42 P. M. org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [fb01442c-d346-4248-b7c5-82371be39997, quit {}]
+Finalizando ejecución a las 20190729-050142

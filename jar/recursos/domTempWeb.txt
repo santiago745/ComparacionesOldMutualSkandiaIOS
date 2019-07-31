@@ -1,0 +1,88 @@
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page - My ASP.NET Application</title>
+    <link href="/Content/css?v=QJBN4IMhFAn89k2WtUoUlT7A-DjbW4AZZunOK9xfO341" rel="stylesheet">
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+</head>
+<body style="">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">Demo COBIS</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/Home/About">About</a></li>
+                    <li><a href="/Home/Contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        
+
+
+<div class="main-container">
+    <div class="cloud-image">
+        <img src="/assets/successCloudNew.svg">
+    </div>
+    <div class="content">
+        <div class="tweet-container">
+            <a href="http://twitter.com/intent/tweet/?text=I%20just%20created%20a%20new%20ASP.net%20website%20on%20Azure%20using%20Azure%20DevOps%20Project&amp;hashtags=AzureDevOpsProject%2CVSTS%20%40Azure%20%40VSTS">
+                <img src="/assets/tweetThis.svg">
+            </a>            
+        </div>
+        <div class="content-body">
+            <div class="success-text">Demo TEST 24/04/2019 15:11 V6.0.</div>
+            <div class="description line-1"> Somos PERIFERIA IT GROUP somos DEVOPS</div>
+            <div class="description line-2"> Your ASP.NET MVC app is up and running on Azure</div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        
+        <h2>Get started right away </h2>
+        <p>
+            Azure DevOps CBIT.
+        </p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?linkid=862409">Learn more »</a></p>
+    </div>
+    <div class="col-md-4">
+        
+        <h2>Musica</h2>
+        <p>Rock en español,</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?linkid=862410">Learn more »</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Azure DevOps Project</h2>
+        <p>Learn more about all you can do with Azure DevOps project by visiting the documentation</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?linkid=862126">Learn more »</a></p>
+    </div>
+</div>
+        <hr>
+        <footer>
+            <p>© 2019 - ASP.NET Application</p>
+        </footer>
+    </div>
+
+    <script src="/bundles/jquery?v=FVs3ACwOLIVInrAl5sdzR2jrCDmVOWFbZMY6g6Q0ulE1"></script>
+
+    <script src="/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1"></script>
+
+    
+
+
+</body></html>

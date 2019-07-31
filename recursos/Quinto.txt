@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><hierarchy rotation="0">
+  <node onScreen="false" top="true" visible="false">
+       
+    <XCUIElementTypeApplication XCElementType="XCUIElementTypeApplication" bundleId="com.oldmutual.MobileApp" class="UIAView" enabled="true" height="1792" hidden="false" id="Skandia" knownSuperClass="UIApplication" label="Skandia" name="Skandia" onScreen="true" text="Skandia" top="true" value="Skandia" visible="true" width="828" x="0" y="0">
+      Skandia
+      <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                 
+        <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UILayoutContainerView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                      
+          <XCUIElementTypeNavigationBar XCElementType="XCUIElementTypeNavigationBar" accessibilityLabel="Canales de Contacto" class="UIANavigationBar" enabled="true" height="88" hidden="false" id="Canales de Contacto" knownSuperClass="UINavigationBar" label="Canales de Contacto" name="Canales de Contacto" onScreen="true" text="Canales de Contacto" top="true" value="Canales de Contacto" visible="true" width="828" x="0" y="88">
+            Canales de Contacto
+            <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="88" hidden="false" id="icon back" knownSuperClass="_UIButtonBarButton" label="icon back" name="icon back" onScreen="true" text="icon back" top="true" value="icon back" visible="true" width="104" x="24" y="88">icon back</XCUIElementTypeButton>
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="44" hidden="false" id="Canales de Contacto" knownSuperClass="UILabel" label="Canales de Contacto" name="Canales de Contacto" onScreen="true" text="Canales de Contacto" top="true" value="Canales de Contacto" visible="true" width="378" x="224" y="108">Canales de Contacto</XCUIElementTypeOther>
+                        
+          </XCUIElementTypeNavigationBar>
+                      
+          <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UINavigationTransitionView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIViewControllerWrapperView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                     
+                <XCUIElementTypeScrollView XCElementType="XCUIElementTypeScrollView" class="UIAScrollView" enabled="true" height="1548" hidden="false" knownSuperClass="UIScrollView" onScreen="true" top="true" visible="true" width="828" x="0" y="176">
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="260" hidden="false" id="En esta sección podrá comunicarse con el centro de servicios mediante una llamada telefónica o un correo electrónico en el horario de lunes a viernes de 8:00a.m. a 7:00p.m. (jornada continua) y sabados de 9:00a.m. a 1:00p.m." knownSuperClass="UILabel" label="En esta sección podrá comunicarse con el centro de servicios mediante una llamada telefónica o un correo electrónico en el horario de lunes a viernes de 8:00a.m. a 7:00p.m. (jornada continua) y sabados de 9:00a.m. a 1:00p.m." name="En esta sección podrá comunicarse con el centro de servicios mediante una llamada telefónica o un correo electrónico en el horario de lunes a viernes de 8:00a.m. a 7:00p.m. (jornada continua) y sabados de 9:00a.m. a 1:00p.m." onScreen="true" text="En esta sección podrá comunicarse con el centro de servicios mediante una llamada telefónica o un correo electrónico en el horario de lunes a viernes de 8:00a.m. a 7:00p.m. (jornada continua) y sabados de 9:00a.m. a 1:00p.m." top="true" value="En esta sección podrá comunicarse con el centro de servicios mediante una llamada telefónica o un correo electrónico en el horario de lunes a viernes de 8:00a.m. a 7:00p.m. (jornada continua) y sabados de 9:00a.m. a 1:00p.m." visible="true" width="796" x="16" y="180">En esta sección podrá comunicarse con el centro de servicios mediante una llamada telefónica o un correo electrónico en el horario de lunes a viernes de 8:00a.m. a 7:00p.m. (jornada continua) y sabados de 9:00a.m. a 1:00p.m.</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="70" hidden="false" id="Recuerde que existen contactos para personas naturales y para empresas." knownSuperClass="UILabel" label="Recuerde que existen contactos para personas naturales y para empresas." name="Recuerde que existen contactos para personas naturales y para empresas." onScreen="true" text="Recuerde que existen contactos para personas naturales y para empresas." top="true" value="Recuerde que existen contactos para personas naturales y para empresas." visible="true" width="796" x="16" y="446">Recuerde que existen contactos para personas naturales y para empresas.</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="44" hidden="false" id="Línea Nacional Gratuita" knownSuperClass="UILabel" label="Línea Nacional Gratuita" name="Línea Nacional Gratuita" onScreen="true" text="Línea Nacional Gratuita" top="true" value="Línea Nacional Gratuita" visible="true" width="796" x="16" y="570">Línea Nacional Gratuita</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="42" hidden="false" id="Teléfono" knownSuperClass="UILabel" label="Teléfono" name="Teléfono" onScreen="true" text="Teléfono" top="true" value="Teléfono" visible="true" width="1068" x="16" y="630">Teléfono</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="018000517526" knownSuperClass="UIButton" label="018000517526" name="018000517526" onScreen="true" text="018000517526" top="true" value="018000517526" visible="true" width="220" x="16" y="688">018000517526</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="icon tel" knownSuperClass="UIButton" label="icon tel" name="icon tel" onScreen="true" text="icon tel" top="true" value="icon tel" visible="true" width="60" x="732" y="688">icon tel</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="44" hidden="false" id="Personas Naturales" knownSuperClass="UILabel" label="Personas Naturales" name="Personas Naturales" onScreen="true" text="Personas Naturales" top="true" value="Personas Naturales" visible="true" width="796" x="16" y="778">Personas Naturales</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="42" hidden="false" id="Teléfono" knownSuperClass="UILabel" label="Teléfono" name="Teléfono" onScreen="true" text="Teléfono" top="true" value="Teléfono" visible="true" width="696" x="16" y="850">Teléfono</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="icon tel" knownSuperClass="UIButton" label="icon tel" name="icon tel" onScreen="true" text="icon tel" top="true" value="icon tel" visible="true" width="60" x="732" y="868">icon tel</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="Bogotá (031) 658-4000" knownSuperClass="UIButton" label="Bogotá (031) 658-4000" name="Bogotá (031) 658-4000" onScreen="true" text="Bogotá (031) 658-4000" top="true" value="Bogotá (031) 658-4000" visible="true" width="410" x="16" y="898">Bogotá (031) 658-4000</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="Bogotá (031) 484-1300" knownSuperClass="UIButton" label="Bogotá (031) 484-1300" name="Bogotá (031) 484-1300" onScreen="true" text="Bogotá (031) 484-1300" top="true" value="Bogotá (031) 484-1300" visible="true" width="410" x="16" y="968">Bogotá (031) 484-1300</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="icon tel" knownSuperClass="UIButton" label="icon tel" name="icon tel" onScreen="true" text="icon tel" top="true" value="icon tel" visible="true" width="60" x="732" y="968">icon tel</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="2" hidden="false" knownSuperClass="UILabel" onScreen="true" top="true" visible="true" width="780" x="16" y="1038"/>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="42" hidden="false" id="Correo Electrónico" knownSuperClass="UILabel" label="Correo Electrónico" name="Correo Electrónico" onScreen="true" text="Correo Electrónico" top="true" value="Correo Electrónico" visible="true" width="696" x="16" y="1066">Correo Electrónico</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="Button" knownSuperClass="UIButton" label="Button" name="Button" onScreen="true" text="Button" top="true" value="Button" visible="true" width="60" x="732" y="1084">Button</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="cliente@skandia.com.co" knownSuperClass="UIButton" label="cliente@skandia.com.co" name="cliente@skandia.com.co" onScreen="true" text="cliente@skandia.com.co" top="true" value="cliente@skandia.com.co" visible="true" width="380" x="16" y="1108">cliente@skandia.com.co</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="2" hidden="false" knownSuperClass="UILabel" onScreen="true" top="true" visible="true" width="780" x="16" y="1184"/>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="42" hidden="false" id="Servicio Empresarial" knownSuperClass="UILabel" label="Servicio Empresarial" name="Servicio Empresarial" onScreen="true" text="Servicio Empresarial" top="true" value="Servicio Empresarial" visible="true" width="796" x="16" y="1240">Servicio Empresarial</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="42" hidden="false" id="Teléfono" knownSuperClass="UILabel" label="Teléfono" name="Teléfono" onScreen="true" text="Teléfono" top="true" value="Teléfono" visible="true" width="696" x="16" y="1310">Teléfono</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="icon tel" knownSuperClass="UIButton" label="icon tel" name="icon tel" onScreen="true" text="icon tel" top="true" value="icon tel" visible="true" width="60" x="732" y="1328">icon tel</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="Bogotá (031) 658-4123" knownSuperClass="UIButton" label="Bogotá (031) 658-4123" name="Bogotá (031) 658-4123" onScreen="true" text="Bogotá (031) 658-4123" top="true" value="Bogotá (031) 658-4123" visible="true" width="380" x="16" y="1358">Bogotá (031) 658-4123</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="2" hidden="false" knownSuperClass="UILabel" onScreen="true" top="true" visible="true" width="780" x="16" y="1428"/>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="42" hidden="false" id="Correo Electrónico" knownSuperClass="UILabel" label="Correo Electrónico" name="Correo Electrónico" onScreen="true" text="Correo Electrónico" top="true" value="Correo Electrónico" visible="true" width="696" x="16" y="1456">Correo Electrónico</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="icon email" knownSuperClass="UIButton" label="icon email" name="icon email" onScreen="true" text="icon email" top="true" value="icon email" visible="true" width="60" x="732" y="1474">icon email</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="servicioempresa@skandia.com.co" knownSuperClass="UIButton" label="servicioempresa@skandia.com.co" name="servicioempresa@skandia.com.co" onScreen="true" text="servicioempresa@skandia.com.co" top="true" value="servicioempresa@skandia.com.co" visible="true" width="520" x="16" y="1504">servicioempresa@skandia.com.co</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="2" hidden="false" knownSuperClass="UILabel" onScreen="true" top="true" visible="true" width="780" x="16" y="1574"/>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="42" hidden="false" id="Redes sociales" knownSuperClass="UILabel" label="Redes sociales" name="Redes sociales" onScreen="true" text="Redes sociales" top="true" value="Redes sociales" visible="true" width="796" x="16" y="1630">Redes sociales</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="80" hidden="false" knownSuperClass="UIStackView" onScreen="true" top="true" visible="true" width="780" x="16" y="1692">
+                                               
+                    <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icon_tw" class="UIAImage" enabled="true" height="80" hidden="false" id="icon_tw" knownSuperClass="UIImageView" label="icon_tw" name="icon_tw" onScreen="true" text="icon_tw" top="true" value="icon_tw" visible="true" width="156" x="16" y="1692">icon_tw</XCUIElementTypeImage>
+                                               
+                    <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icon_facebook" class="UIAImage" enabled="true" height="80" hidden="false" id="icon_facebook" knownSuperClass="UIImageView" label="icon_facebook" name="icon_facebook" onScreen="true" text="icon_facebook" top="true" value="icon_facebook" visible="true" width="156" x="172" y="1692">icon_facebook</XCUIElementTypeImage>
+                                               
+                    <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icon_youtube" class="UIAImage" enabled="true" height="80" hidden="false" id="icon_youtube" knownSuperClass="UIImageView" label="icon_youtube" name="icon_youtube" onScreen="true" text="icon_youtube" top="true" value="icon_youtube" visible="true" width="156" x="328" y="1692">icon_youtube</XCUIElementTypeImage>
+                                               
+                    <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icon_instagram" class="UIAImage" enabled="true" height="80" hidden="false" id="icon_instagram" knownSuperClass="UIImageView" label="icon_instagram" name="icon_instagram" onScreen="true" text="icon_instagram" top="true" value="icon_instagram" visible="true" width="156" x="484" y="1692">icon_instagram</XCUIElementTypeImage>
+                                               
+                    <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="icon_linkein" class="UIAImage" enabled="true" height="80" hidden="false" id="icon_linkein" knownSuperClass="UIImageView" label="icon_linkein" name="icon_linkein" onScreen="true" text="icon_linkein" top="true" value="icon_linkein" visible="true" width="156" x="640" y="1692">icon_linkein</XCUIElementTypeImage>
+                                            
+                  </XCUIElementTypeOther>
+                                          
+                  <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="80" hidden="false" knownSuperClass="UIStackView" onScreen="true" top="true" visible="true" width="780" x="16" y="1692">
+                                               
+                    <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="80" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="156" x="16" y="1692"/>
+                                               
+                    <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="80" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="156" x="172" y="1692"/>
+                                               
+                    <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="80" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="156" x="328" y="1692"/>
+                                               
+                    <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="80" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="156" x="484" y="1692"/>
+                                               
+                    <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="80" hidden="false" knownSuperClass="UIButton" onScreen="true" top="true" visible="true" width="156" x="640" y="1692"/>
+                                            
+                  </XCUIElementTypeOther>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="60" hidden="false" id="Ubicación de Oficina" knownSuperClass="UILabel" label="Ubicación de Oficina" name="Ubicación de Oficina" onScreen="false" text="Ubicación de Oficina" top="true" value="Ubicación de Oficina" visible="false" width="796" x="16" y="1842">Ubicación de Oficina</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="60" hidden="false" knownSuperClass="UILabel" onScreen="false" top="true" visible="false" width="696" x="16" y="1902"/>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="Bogotá - Avenida 19 No 109A-30" knownSuperClass="UIButton" label="Bogotá - Avenida 19 No 109A-30" name="Bogotá - Avenida 19 No 109A-30" onScreen="false" text="Bogotá - Avenida 19 No 109A-30" top="true" value="Bogotá - Avenida 19 No 109A-30" visible="false" width="636" x="16" y="1968">Bogotá - Avenida 19 No 109A-30</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" accessibilityLabel="more" class="UIAImage" enabled="true" height="42" hidden="false" id="more" knownSuperClass="UIImageView" label="more" name="more" onScreen="false" text="more" top="true" value="more" visible="false" width="42" x="660" y="1980">more</XCUIElementTypeImage>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="icon location" knownSuperClass="UIButton" label="icon location" name="icon location" onScreen="false" text="icon location" top="true" value="icon location" visible="false" width="60" x="732" y="1972">icon location</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="60" hidden="false" id="Dirección" knownSuperClass="UILabel" label="Dirección" name="Dirección" onScreen="false" text="Dirección" top="true" value="Dirección" visible="false" width="696" x="16" y="2058">Dirección</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="110" hidden="false" id="Avenida 19 No 109A-30" knownSuperClass="UIButton" label="Avenida 19 No 109A-30" name="Avenida 19 No 109A-30" onScreen="false" text="Avenida 19 No 109A-30" top="true" value="Avenida 19 No 109A-30" visible="false" width="732" x="16" y="2104">Avenida 19 No 109A-30</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="28" hidden="false" id="Horario de atención:" knownSuperClass="UILabel" label="Horario de atención:" name="Horario de atención:" onScreen="false" text="Horario de atención:" top="true" value="Horario de atención:" visible="false" width="796" x="16" y="2224">Horario de atención:</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="78" hidden="false" id="Lunes a Viernes de 8:00 a.m. a 7:00 p.m. Jornada Continua." knownSuperClass="UILabel" label="Lunes a Viernes de 8:00 a.m. a 7:00 p.m. Jornada Continua." name="Lunes a Viernes de 8:00 a.m. a 7:00 p.m. Jornada Continua." onScreen="false" text="Lunes a Viernes de 8:00 a.m. a 7:00 p.m. Jornada Continua." top="true" value="Lunes a Viernes de 8:00 a.m. a 7:00 p.m. Jornada Continua." visible="false" width="796" x="16" y="2258">Lunes a Viernes de 8:00 a.m. a 7:00 p.m. Jornada Continua.</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="28" hidden="false" knownSuperClass="UILabel" onScreen="false" top="true" visible="false" width="796" x="16" y="2342"/>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="100" hidden="false" id="ic ir" knownSuperClass="UIButton" label="ic ir" name="ic ir" onScreen="false" text="ic ir" top="true" value="ic ir" visible="false" width="200" x="0" y="2400">ic ir</XCUIElementTypeButton>
+                                          
+                  <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="600" hidden="false" knownSuperClass="UIView" onScreen="false" top="true" visible="false" width="796" x="16" y="2386">
+                                               
+                    <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="600" hidden="false" knownSuperClass="UIView" onScreen="false" top="true" visible="false" width="796" x="16" y="2386">
+                                                    
+                      <XCUIElementTypeMap XCElementType="XCUIElementTypeMap" class="UIAView" enabled="true" height="600" hidden="false" knownSuperClass="NSObject" onScreen="false" top="true" visible="false" width="796" x="16" y="2386"/>
+                                                    
+                      <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="600" hidden="false" knownSuperClass="UIView" onScreen="false" top="true" visible="false" width="796" x="16" y="2386"/>
+                                                 
+                    </XCUIElementTypeOther>
+                                               
+                    <XCUIElementTypeLink XCElementType="XCUIElementTypeLink" class="UIAImage" enabled="true" height="20" hidden="false" id="Legal" knownSuperClass="UIView" label="Legal" name="Legal" onScreen="false" text="Legal" top="true" value="Legal" visible="false" width="56" x="38" y="2946">Legal</XCUIElementTypeLink>
+                                            
+                  </XCUIElementTypeOther>
+                                       
+                </XCUIElementTypeScrollView>
+                                  
+              </XCUIElementTypeOther>
+                             
+            </XCUIElementTypeOther>
+                        
+          </XCUIElementTypeOther>
+                   
+        </XCUIElementTypeOther>
+              
+      </XCUIElementTypeWindow>
+            
+      <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIStatusBarWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                 
+        <XCUIElementTypeStatusBar XCElementType="XCUIElementTypeStatusBar" class="UIAStatusBar" enabled="true" height="88" hidden="false" knownSuperClass="UIStatusBar_Modern" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                      
+          <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="88" hidden="false" knownSuperClass="_UIStatusBar" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="88" hidden="false" knownSuperClass="_UIStatusBarForegroundView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="16" y="-8"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="420" y="-8"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="16" y="38"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="32" y="28">
+                                     
+                <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="38" hidden="false" id="9:00 AM" knownSuperClass="_UIStatusBarStringView" label="9:00 AM" name="9:00 AM" onScreen="true" text="9:00 AM" top="true" value="9:00 AM" visible="true" width="72" x="52" y="30">9:00 AM</XCUIElementTypeStaticText>
+                                     
+                <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" class="UIAImage" enabled="true" height="22" hidden="false" id="Location tracking on" knownSuperClass="_UIStatusBarImageView" label="Location tracking on" name="Location tracking on" onScreen="true" text="Location tracking on" top="true" value="Location tracking on" visible="true" width="22" x="130" y="38">Location tracking on</XCUIElementTypeImage>
+                                  
+              </XCUIElementTypeOther>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="44" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="122" x="46" y="20"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="420" y="38"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="652" y="28">
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIATableCell" enabled="true" height="22" hidden="false" id="Cellular" knownSuperClass="_UIStatusBarCellularSignalView" label="Cellular" name="Cellular" onScreen="true" text="Cellular" top="true" value="No signal" visible="true" width="36" x="652" y="38">Cellular</XCUIElementTypeOther>
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" accessibilityLabel="3 of 3 Wi-Fi bars" class="UIAView" enabled="true" height="22" hidden="false" id="3 of 3 Wi-Fi bars" knownSuperClass="_UIStatusBarWifiSignalView" label="3 of 3 Wi-Fi bars" name="3 of 3 Wi-Fi bars" onScreen="true" text="3 of 3 Wi-Fi bars" top="true" value="SSID, 3 of 3 Wi-Fi bars" visible="true" width="32" x="698" y="38">3 of 3 Wi-Fi bars</XCUIElementTypeOther>
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="24" hidden="false" id="100% battery power" knownSuperClass="_UIBatteryView" label="100% battery power" name="100% battery power" onScreen="true" text="100% battery power" top="true" value="Not charging" visible="true" width="52" x="740" y="36">100% battery power</XCUIElementTypeOther>
+                                  
+              </XCUIElementTypeOther>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="652" y="28"/>
+                             
+            </XCUIElementTypeOther>
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="26" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="162" x="16" y="48"/>
+                        
+          </XCUIElementTypeOther>
+                   
+        </XCUIElementTypeStatusBar>
+              
+      </XCUIElementTypeWindow>
+         
+    </XCUIElementTypeApplication>
+    
+  </node>
+  
+</hierarchy>
+

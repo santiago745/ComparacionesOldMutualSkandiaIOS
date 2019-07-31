@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><hierarchy rotation="0">
+  <node onScreen="false" top="true" visible="false">
+       
+    <XCUIElementTypeApplication XCElementType="XCUIElementTypeApplication" bundleId="com.oldmutual.MobileApp" class="UIAView" enabled="true" height="1792" hidden="false" id="Skandia" knownSuperClass="UIApplication" label="Skandia" name="Skandia" onScreen="true" text="Skandia" top="true" value="Skandia" visible="true" width="828" x="0" y="0">
+      Skandia
+      <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                 
+        <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UILayoutContainerView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                      
+          <XCUIElementTypeNavigationBar XCElementType="XCUIElementTypeNavigationBar" accessibilityLabel="Restablecer Contraseña" class="UIANavigationBar" enabled="true" height="88" hidden="false" id="Restablecer Contraseña" knownSuperClass="UINavigationBar" label="Restablecer Contraseña" name="Restablecer Contraseña" onScreen="true" text="Restablecer Contraseña" top="true" value="Restablecer Contraseña" visible="true" width="828" x="0" y="88">
+            Restablecer Contraseña
+            <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="88" hidden="false" id="icon back" knownSuperClass="_UIButtonBarButton" label="icon back" name="icon back" onScreen="true" text="icon back" top="true" value="icon back" visible="true" width="104" x="24" y="88">icon back</XCUIElementTypeButton>
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="44" hidden="false" id="Restablecer Contraseña" knownSuperClass="UILabel" label="Restablecer Contraseña" name="Restablecer Contraseña" onScreen="true" text="Restablecer Contraseña" top="true" value="Restablecer Contraseña" visible="true" width="438" x="194" y="108">Restablecer Contraseña</XCUIElementTypeOther>
+                        
+          </XCUIElementTypeNavigationBar>
+                      
+          <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UINavigationTransitionView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIViewControllerWrapperView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1792" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="1548" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="828" x="0" y="176">
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="42" hidden="false" id="Apreciado Cliente" knownSuperClass="UILabel" label="Apreciado Cliente" name="Apreciado Cliente" onScreen="true" text="Apreciado Cliente" top="true" value="Apreciado Cliente" visible="true" width="748" x="40" y="216">Apreciado Cliente</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="156" hidden="false" id="Para restablecer su contraseña y enviarle una nueva, debe tener registrado su correo electrónico en nuestros sistemas de información.                                  " knownSuperClass="UILabel" label="Para restablecer su contraseña y enviarle una nueva, debe tener registrado su correo electrónico en nuestros sistemas de información.                                  " name="Para restablecer su contraseña y enviarle una nueva, debe tener registrado su correo electrónico en nuestros sistemas de información.                                  " onScreen="true" text="Para restablecer su contraseña y enviarle una nueva, debe tener registrado su correo electrónico en nuestros sistemas de información.                                  " top="true" value="Para restablecer su contraseña y enviarle una nueva, debe tener registrado su correo electrónico en nuestros sistemas de información.                                  " visible="true" width="748" x="40" y="286">Para restablecer su contraseña y enviarle una nueva, debe tener registrado su correo electrónico en nuestros sistemas de información.                                  </XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="196" hidden="false" id="Si aún no lo tiene, comuníquese con nuestros analistas del Contact Center al 6584000 en Bogotá, o al 018000 517526 a nivel nacional, de lunes a viernes de 8:00 am a 7:00 pm y sábados de 9:00 am a 1:00 pm." knownSuperClass="UILabel" label="Si aún no lo tiene, comuníquese con nuestros analistas del Contact Center al 6584000 en Bogotá, o al 018000 517526 a nivel nacional, de lunes a viernes de 8:00 am a 7:00 pm y sábados de 9:00 am a 1:00 pm." name="Si aún no lo tiene, comuníquese con nuestros analistas del Contact Center al 6584000 en Bogotá, o al 018000 517526 a nivel nacional, de lunes a viernes de 8:00 am a 7:00 pm y sábados de 9:00 am a 1:00 pm." onScreen="true" text="Si aún no lo tiene, comuníquese con nuestros analistas del Contact Center al 6584000 en Bogotá, o al 018000 517526 a nivel nacional, de lunes a viernes de 8:00 am a 7:00 pm y sábados de 9:00 am a 1:00 pm." top="true" value="Si aún no lo tiene, comuníquese con nuestros analistas del Contact Center al 6584000 en Bogotá, o al 018000 517526 a nivel nacional, de lunes a viernes de 8:00 am a 7:00 pm y sábados de 9:00 am a 1:00 pm." visible="true" width="748" x="40" y="458">Si aún no lo tiene, comuníquese con nuestros analistas del Contact Center al 6584000 en Bogotá, o al 018000 517526 a nivel nacional, de lunes a viernes de 8:00 am a 7:00 pm y sábados de 9:00 am a 1:00 pm.</XCUIElementTypeStaticText>
+                                          
+                  <XCUIElementTypeButton XCElementType="XCUIElementTypeButton" class="UIAButton" enabled="true" height="60" hidden="false" id="CONTINUAR" knownSuperClass="UIButton" label="CONTINUAR" name="CONTINUAR" onScreen="true" text="CONTINUAR" top="true" value="CONTINUAR" visible="true" width="748" x="40" y="1624">CONTINUAR</XCUIElementTypeButton>
+                                       
+                </XCUIElementTypeOther>
+                                  
+              </XCUIElementTypeOther>
+                             
+            </XCUIElementTypeOther>
+                        
+          </XCUIElementTypeOther>
+                   
+        </XCUIElementTypeOther>
+              
+      </XCUIElementTypeWindow>
+            
+      <XCUIElementTypeWindow XCElementType="XCUIElementTypeWindow" class="UIAWindow" enabled="true" height="1792" hidden="false" knownSuperClass="UIStatusBarWindow" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                 
+        <XCUIElementTypeStatusBar XCElementType="XCUIElementTypeStatusBar" class="UIAStatusBar" enabled="true" height="88" hidden="false" knownSuperClass="UIStatusBar_Modern" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                      
+          <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="88" hidden="false" knownSuperClass="_UIStatusBar" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="88" hidden="false" knownSuperClass="_UIStatusBarForegroundView" onScreen="true" top="true" visible="true" width="828" x="0" y="0">
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="16" y="-8"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="420" y="-8"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="16" y="38"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="32" y="28">
+                                     
+                <XCUIElementTypeStaticText XCElementType="XCUIElementTypeStaticText" class="UIAStaticText" enabled="true" height="38" hidden="false" id="9:01 AM" knownSuperClass="_UIStatusBarStringView" label="9:01 AM" name="9:01 AM" onScreen="true" text="9:01 AM" top="true" value="9:01 AM" visible="true" width="66" x="56" y="30">9:01 AM</XCUIElementTypeStaticText>
+                                     
+                <XCUIElementTypeImage XCElementType="XCUIElementTypeImage" class="UIAImage" enabled="true" height="22" hidden="false" id="Location tracking on" knownSuperClass="_UIStatusBarImageView" label="Location tracking on" name="Location tracking on" onScreen="true" text="Location tracking on" top="true" value="Location tracking on" visible="true" width="22" x="128" y="38">Location tracking on</XCUIElementTypeImage>
+                                  
+              </XCUIElementTypeOther>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="44" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="122" x="46" y="20"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="22" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="394" x="420" y="38"/>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="652" y="28">
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIATableCell" enabled="true" height="22" hidden="false" id="Cellular" knownSuperClass="_UIStatusBarCellularSignalView" label="Cellular" name="Cellular" onScreen="true" text="Cellular" top="true" value="No signal" visible="true" width="36" x="652" y="38">Cellular</XCUIElementTypeOther>
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" accessibilityLabel="3 of 3 Wi-Fi bars" class="UIAView" enabled="true" height="22" hidden="false" id="3 of 3 Wi-Fi bars" knownSuperClass="_UIStatusBarWifiSignalView" label="3 of 3 Wi-Fi bars" name="3 of 3 Wi-Fi bars" onScreen="true" text="3 of 3 Wi-Fi bars" top="true" value="SSID, 3 of 3 Wi-Fi bars" visible="true" width="32" x="698" y="38">3 of 3 Wi-Fi bars</XCUIElementTypeOther>
+                                     
+                <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="24" hidden="false" id="100% battery power" knownSuperClass="_UIBatteryView" label="100% battery power" name="100% battery power" onScreen="true" text="100% battery power" top="true" value="Not charging" visible="true" width="52" x="740" y="36">100% battery power</XCUIElementTypeOther>
+                                  
+              </XCUIElementTypeOther>
+                                
+              <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="32" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="140" x="652" y="28"/>
+                             
+            </XCUIElementTypeOther>
+                           
+            <XCUIElementTypeOther XCElementType="XCUIElementTypeOther" class="UIAView" enabled="true" height="26" hidden="false" knownSuperClass="UIView" onScreen="true" top="true" visible="true" width="162" x="16" y="48"/>
+                        
+          </XCUIElementTypeOther>
+                   
+        </XCUIElementTypeStatusBar>
+              
+      </XCUIElementTypeWindow>
+         
+    </XCUIElementTypeApplication>
+    
+  </node>
+  
+</hierarchy>
+

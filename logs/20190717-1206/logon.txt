@@ -1,0 +1,511 @@
+jul 17, 2019 12:06:48 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+Se encontró una diferencia en la linea 11
+Dom original:               <android.widget.LinearLayout bounds="[0,578][1080,1540]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/container1" scrollable="false" selected="false" text="">
+Dom actual:               <android.widget.LinearLayout bounds="[0,578][1080,1576]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/container1" scrollable="false" selected="false" text="">
+Diferencia: (80,1540]" ) --- (80,1576]" )
+---------------------------------
+Se encontró una diferencia en la linea 14
+Dom original:                 <android.widget.Button bounds="[44,926][1036,1036]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/login" scrollable="false" selected="false" text="INGRESAR"/>
+Dom actual:                 <android.widget.Button bounds="[44,926][1036,1058]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/login" scrollable="false" selected="false" text="INICIAR SESIÓN"/>
+Diferencia: (36,1036]" ) --- (36,1058]" )
+---------------------------------
+Se encontró una diferencia en la linea 15
+Dom original:                 <android.widget.CheckBox bounds="[44,1064][1022,1152]" checkable="true" checked="false" class="android.widget.CheckBox" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/checkRemember" scrollable="false" selected="false" text="Recordar mi usuario"/>
+Dom actual:                 <android.widget.CheckBox bounds="[44,1086][1022,1174]" checkable="true" checked="false" class="android.widget.CheckBox" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/checkRemember" scrollable="false" selected="false" text="Recordar mi usuario"/>
+Diferencia: (44,1064][1) --- (44,1086][1)
+---------------------------------
+Se encontró una diferencia en la linea 16
+Dom original:                 <android.widget.LinearLayout bounds="[296,1262][784,1331]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="4" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_forgot" scrollable="false" selected="false" text="">
+Dom actual:                 <android.widget.LinearLayout bounds="[302,1284][777,1334]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="4" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_forgot" scrollable="false" selected="false" text="">
+Diferencia: (ds="[296,1) --- (ds="[302,1)
+---------------------------------
+Se encontró una diferencia en la linea 17
+Dom original:                   <android.widget.ImageView bounds="[296,1262][365,1331]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                   <android.widget.TextView bounds="[302,1284][777,1334]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/textView2" scrollable="false" selected="false" text="¿Olvidó su contraseña?"/>
+Diferencia: (dget.Image) --- (dget.TextV)
+---------------------------------
+Se encontró una diferencia en la linea 18
+Dom original:                   <android.widget.TextView bounds="[365,1262][784,1318]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/textView2" scrollable="false" selected="false" text="¿Olvidó su contraseña?"/>
+Dom actual:                 </android.widget.LinearLayout>
+Diferencia: (       <an) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 19
+Dom original:                 </android.widget.LinearLayout>
+Dom actual:                 <android.widget.TextView bounds="[44,1362][1036,1532]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="5" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/DisclaimerLogin" scrollable="false" selected="false" text="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;"/>
+Diferencia: (    </andr) --- (    <andro)
+---------------------------------
+Se encontró una diferencia en la linea 20
+Dom original:                 <android.widget.TextView bounds="[44,1359][1036,1496]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="5" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/DisclaimerLogin" scrollable="false" selected="false" text="&quot;El nombre de Old Mutual está siendo usado bajo licencia temporal otorgada por Old Mutual Limited Group. Las compañías de Old Mutual en Colombia, ya no hacen parte del grupo económico liderado por Old Mutual Limited.&quot;"/>
+Dom actual:               </android.widget.LinearLayout>
+Diferencia: (       <an) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 21
+Dom original:               </android.widget.LinearLayout>
+Dom actual:               <android.widget.LinearLayout bounds="[0,1576][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (    </andr) --- (    <andro)
+---------------------------------
+Se encontró una diferencia en la linea 22
+Dom original:               <android.widget.LinearLayout bounds="[0,1540][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                 <android.widget.RelativeLayout bounds="[0,1980][1080,2068]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (     <andr) --- (       <an)
+---------------------------------
+Se encontró una diferencia en la linea 23
+Dom original:                 <android.widget.RelativeLayout bounds="[0,1980][1080,2068]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,1980][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (     <andr) --- (       <an)
+---------------------------------
+Se encontró una diferencia en la linea 24
+Dom original:                   <android.widget.LinearLayout bounds="[0,1980][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.Button bounds="[0,1980][270,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_Certificados" scrollable="false" selected="false" text=""/>
+Diferencia: (     <andr) --- (       <an)
+---------------------------------
+Se encontró una diferencia en la linea 25
+Dom original:                     <android.widget.Button bounds="[0,1980][270,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_Certificados" scrollable="false" selected="false" text=""/>
+Dom actual:                     <android.widget.Button bounds="[270,1980][540,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_profitability" scrollable="false" selected="false" text=""/>
+Diferencia: (ds="[0,198) --- (ds="[270,1)
+---------------------------------
+Se encontró una diferencia en la linea 26
+Dom original:                     <android.widget.Button bounds="[270,1980][540,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_profitability" scrollable="false" selected="false" text=""/>
+Dom actual:                     <android.widget.Button bounds="[540,1980][810,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_channelGuide" scrollable="false" selected="false" text=""/>
+Diferencia: (ds="[270,1) --- (ds="[540,1)
+---------------------------------
+Se encontró una diferencia en la linea 27
+Dom original:                     <android.widget.Button bounds="[540,1980][810,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_channelGuide" scrollable="false" selected="false" text=""/>
+Dom actual:                     <android.widget.Button bounds="[810,1980][1080,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_simulator" scrollable="false" selected="false" text=""/>
+Diferencia: (ds="[540,1) --- (ds="[810,1)
+---------------------------------
+Se encontró una diferencia en la linea 28
+Dom original:                     <android.widget.Button bounds="[810,1980][1080,2068]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btn_simulator" scrollable="false" selected="false" text=""/>
+Dom actual:                   </android.widget.LinearLayout>
+Diferencia: (       <an) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 29
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                   <android.widget.LinearLayout bounds="[0,1980][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (    </andr) --- (    <andro)
+---------------------------------
+Se encontró una diferencia en la linea 30
+Dom original:                   <android.widget.LinearLayout bounds="[0,1980][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.ImageView bounds="[0,1980][270,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView9" scrollable="false" selected="false" text=""/>
+Diferencia: (     <andr) --- (       <an)
+---------------------------------
+Se encontró una diferencia en la linea 31
+Dom original:                     <android.widget.ImageView bounds="[0,1980][270,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView9" scrollable="false" selected="false" text=""/>
+Dom actual:                     <android.widget.ImageView bounds="[270,1980][540,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView8" scrollable="false" selected="false" text=""/>
+Diferencia: (ds="[0,198) --- (ds="[270,1)
+---------------------------------
+Se encontró una diferencia en la linea 32
+Dom original:                     <android.widget.ImageView bounds="[270,1980][540,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView8" scrollable="false" selected="false" text=""/>
+Dom actual:                     <android.widget.ImageView bounds="[540,1980][810,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView7" scrollable="false" selected="false" text=""/>
+Diferencia: (ds="[270,1) --- (ds="[540,1)
+---------------------------------
+Se encontró una diferencia en la linea 33
+Dom original:                     <android.widget.ImageView bounds="[540,1980][810,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView7" scrollable="false" selected="false" text=""/>
+Dom actual:                     <android.widget.ImageView bounds="[810,1980][1080,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView6" scrollable="false" selected="false" text=""/>
+Diferencia: (ds="[540,1) --- (ds="[810,1)
+---------------------------------
+Se encontró una diferencia en la linea 34
+Dom original:                     <android.widget.ImageView bounds="[810,1980][1080,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/imageView6" scrollable="false" selected="false" text=""/>
+Dom actual:                   </android.widget.LinearLayout>
+Diferencia: (       <an) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 35
+Dom original:                   </android.widget.LinearLayout>
+Dom actual:                 </android.widget.RelativeLayout>
+Diferencia: (       </a) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 36
+Dom original:                 </android.widget.RelativeLayout>
+Dom actual:               </android.widget.LinearLayout>
+Diferencia: (       </a) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 37
+Dom original:               </android.widget.LinearLayout>
+Dom actual:             </android.widget.LinearLayout>
+Diferencia: (       </a) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 38
+Dom original:             </android.widget.LinearLayout>
+Dom actual:           </android.widget.FrameLayout>
+Diferencia: (       </a) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 39
+Dom original:           </android.widget.FrameLayout>
+Dom actual:         </android.widget.LinearLayout>
+Diferencia: (       </a) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 40
+Dom original:         </android.widget.LinearLayout>
+Dom actual:       </android.widget.FrameLayout>
+Diferencia: (       </a) --- (     </and)
+---------------------------------
+Se encontró una diferencia en la linea 41
+Dom original:       </android.widget.FrameLayout>
+Dom actual:     </android.widget.LinearLayout>
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 42
+Dom original:     </android.widget.LinearLayout>
+Dom actual:   </android.widget.FrameLayout>
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 43
+Dom original:   </android.widget.FrameLayout>
+Dom actual: </hierarchy>
+Diferencia: () --- ()
+---------------------------------
+Se encontró una diferencia en la linea 44
+Dom original: </hierarchy>
+Dom actual: 
+Diferencia: () --- ()
+---------------------------------
+Comparando imagenes de look and feel
+Porcentaje de diferencia en look and feel:4.727603921143939
+Se encontró una diferencia en la linea 14
+Dom original:                   <android.widget.LinearLayout bounds="[0,236][1080,682]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,236][1080,680]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (80,682]" c) --- (80,680]" c)
+---------------------------------
+Se encontró una diferencia en la linea 15
+Dom original:                     <android.widget.TextView bounds="[41,277][1039,514]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvInfo" scrollable="false" selected="false" text="En    esta   sección   podrá   comunicarse   con    el    centro    de servicios  mediante   una   llamada   telefónica  o   un   correo electrónico en el horario de lunes a viernes de 8:00 a.m. a 7:00  p.m.  (jornada   continua)   y   sábados   de   9:00  a.m.  a 1:00 p.m. "/>
+Dom actual:                     <android.widget.TextView bounds="[41,277][1039,516]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvInfo" scrollable="false" selected="false" text="En esta sección podrá comunicarse con el centro de servicios mediante una llamada telefónica o un correo electrónico en el horario de lunes a viernes de 8:00 a.m. a 7:00 p.m. (jornada continua) y sábados de 9:00 a.m. a 1:00 p.m."/>
+Diferencia: (39,514]" c) --- (39,516]" c)
+---------------------------------
+Se encontró una diferencia en la linea 16
+Dom original:                     <android.widget.TextView bounds="[41,514][1039,641]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvInfo2" scrollable="false" selected="false" text="Recuerde  que  existen  contáctos  para  persona  natural  y  para empresas. "/>
+Dom actual:                     <android.widget.TextView bounds="[41,516][1039,639]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvInfo2" scrollable="false" selected="false" text="Recuerde que existen contáctos para persona natural y para empresas."/>
+Diferencia: (41,514][10) --- (41,516][10)
+---------------------------------
+Se encontró una diferencia en la linea 18
+Dom original:                   <android.widget.LinearLayout bounds="[0,682][1080,796]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,680][1080,788]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ([0,682][10) --- ([0,680][10)
+---------------------------------
+Se encontró una diferencia en la linea 19
+Dom original:                     <android.widget.TextView bounds="[41,737][497,796]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle0" scrollable="false" selected="false" text="Línea Nacional Gratuita"/>
+Dom actual:                     <android.widget.TextView bounds="[41,735][556,788]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle0" scrollable="false" selected="false" text="Línea Nacional Gratuita"/>
+Diferencia: (41,737][49) --- (41,735][55)
+---------------------------------
+Se encontró una diferencia en la linea 21
+Dom original:                   <android.widget.LinearLayout bounds="[0,796][1080,989]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idNationalLine" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,788][1080,981]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idNationalLine" scrollable="false" selected="false" text="">
+Diferencia: ("[0,796][1) --- ("[0,788][1)
+---------------------------------
+Se encontró una diferencia en la linea 22
+Dom original:                     <android.widget.RelativeLayout bounds="[28,796][215,989]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[28,788][215,981]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ([28,796][2) --- ([28,788][2)
+---------------------------------
+Se encontró una diferencia en la linea 23
+Dom original:                       <android.widget.ImageView bounds="[28,858][152,927]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                       <android.widget.ImageView bounds="[28,859][134,910]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Skandia" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Diferencia: (28,858][15) --- (28,859][13)
+---------------------------------
+Se encontró una diferencia en la linea 25
+Dom original:                     <android.widget.RelativeLayout bounds="[215,796][1053,989]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[215,788][1053,981]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (215,796][1) --- (215,788][1)
+---------------------------------
+Se encontró una diferencia en la linea 26
+Dom original:                       <android.widget.TextView bounds="[229,837][493,892]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhoneNationalLine" scrollable="false" selected="false" text="018000517526"/>
+Dom actual:                       <android.widget.TextView bounds="[229,829][507,884]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhoneNationalLine" scrollable="false" selected="false" text="018000517526"/>
+Diferencia: (229,837][4) --- (229,829][5)
+---------------------------------
+Se encontró una diferencia en la linea 27
+Dom original:                       <android.widget.TextView bounds="[229,892][381,947]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Dom actual:                       <android.widget.TextView bounds="[229,884][401,939]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Diferencia: (229,892][3) --- (229,884][4)
+---------------------------------
+Se encontró una diferencia en la linea 30
+Dom original:                   <android.widget.LinearLayout bounds="[193,989][1080,992]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                   <android.widget.LinearLayout bounds="[193,981][1080,984]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="3" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Diferencia: (93,989][10) --- (93,981][10)
+---------------------------------
+Se encontró una diferencia en la linea 31
+Dom original:                   <android.widget.LinearLayout bounds="[0,992][1080,1106]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="4" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,984][1080,1092]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="4" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ("[0,992][1) --- ("[0,984][1)
+---------------------------------
+Se encontró una diferencia en la linea 32
+Dom original:                     <android.widget.TextView bounds="[41,1047][425,1106]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle1" scrollable="false" selected="false" text="Personas Naturales"/>
+Dom actual:                     <android.widget.TextView bounds="[41,1039][467,1092]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle1" scrollable="false" selected="false" text="Personas Naturales"/>
+Diferencia: (41,1047][4) --- (41,1039][4)
+---------------------------------
+Se encontró una diferencia en la linea 34
+Dom original:                   <android.widget.LinearLayout bounds="[0,1106][1080,1299]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="5" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idPhoneNaturalPerson" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,1092][1080,1285]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="5" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idPhoneNaturalPerson" scrollable="false" selected="false" text="">
+Diferencia: ("[0,1106][) --- ("[0,1092][)
+---------------------------------
+Se encontró una diferencia en la linea 35
+Dom original:                     <android.widget.RelativeLayout bounds="[28,1106][215,1299]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[28,1092][215,1285]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ([28,1106][) --- ([28,1092][)
+---------------------------------
+Se encontró una diferencia en la linea 36
+Dom original:                       <android.widget.ImageView bounds="[28,1168][152,1237]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/icon_phone1" scrollable="false" selected="false" text=""/>
+Dom actual:                       <android.widget.ImageView bounds="[28,1163][134,1214]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Skandia" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/icon_phone1" scrollable="false" selected="false" text=""/>
+Diferencia: (8,1168][15) --- (8,1163][13)
+---------------------------------
+Se encontró una diferencia en la linea 38
+Dom original:                     <android.widget.RelativeLayout bounds="[215,1106][1053,1299]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[215,1092][1053,1285]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (215,1106][) --- (215,1092][)
+---------------------------------
+Se encontró una diferencia en la linea 39
+Dom original:                       <android.widget.TextView bounds="[229,1147][620,1202]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhone1" scrollable="false" selected="false" text="Bogotá (031) 6584000"/>
+Dom actual:                       <android.widget.TextView bounds="[229,1133][659,1188]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhone1" scrollable="false" selected="false" text="Bogotá (031) 6584000"/>
+Diferencia: (29,1147][6) --- (29,1133][6)
+---------------------------------
+Se encontró una diferencia en la linea 40
+Dom original:                       <android.widget.TextView bounds="[229,1202][381,1257]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Dom actual:                       <android.widget.TextView bounds="[229,1188][401,1243]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Diferencia: (229,1202][) --- (229,1188][)
+---------------------------------
+Se encontró una diferencia en la linea 43
+Dom original:                   <android.widget.LinearLayout bounds="[193,1299][1080,1302]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="6" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                   <android.widget.LinearLayout bounds="[193,1285][1080,1288]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="6" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Diferencia: (93,1299][1) --- (93,1285][1)
+---------------------------------
+Se encontró una diferencia en la linea 44
+Dom original:                   <android.widget.LinearLayout bounds="[0,1302][1080,1495]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="7" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idPhoneNaturalPersontwo" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,1288][1080,1481]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="7" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idPhoneNaturalPersontwo" scrollable="false" selected="false" text="">
+Diferencia: ("[0,1302][) --- ("[0,1288][)
+---------------------------------
+Se encontró una diferencia en la linea 45
+Dom original:                     <android.widget.RelativeLayout bounds="[28,1302][215,1495]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[28,1288][215,1481]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ([28,1302][) --- ([28,1288][)
+---------------------------------
+Se encontró una diferencia en la linea 46
+Dom original:                       <android.widget.ImageView bounds="[28,1364][152,1433]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/icon_phone2" scrollable="false" selected="false" text=""/>
+Dom actual:                       <android.widget.ImageView bounds="[28,1359][134,1410]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Skandia" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/icon_phone2" scrollable="false" selected="false" text=""/>
+Diferencia: (28,1364][1) --- (28,1359][1)
+---------------------------------
+Se encontró una diferencia en la linea 48
+Dom original:                     <android.widget.RelativeLayout bounds="[215,1302][1053,1495]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[215,1288][1053,1481]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (215,1302][) --- (215,1288][)
+---------------------------------
+Se encontró una diferencia en la linea 49
+Dom original:                       <android.widget.TextView bounds="[229,1343][620,1398]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhone2" scrollable="false" selected="false" text="Bogotá (031) 4841300"/>
+Dom actual:                       <android.widget.TextView bounds="[229,1329][645,1384]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhone2" scrollable="false" selected="false" text="Bogotá (031) 4841300"/>
+Diferencia: (29,1343][6) --- (29,1329][6)
+---------------------------------
+Se encontró una diferencia en la linea 50
+Dom original:                       <android.widget.TextView bounds="[229,1398][381,1453]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Dom actual:                       <android.widget.TextView bounds="[229,1384][401,1439]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Diferencia: (29,1398][3) --- (29,1384][4)
+---------------------------------
+Se encontró una diferencia en la linea 53
+Dom original:                   <android.widget.LinearLayout bounds="[193,1495][1080,1498]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="8" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                   <android.widget.LinearLayout bounds="[193,1481][1080,1484]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="8" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Diferencia: (93,1495][1) --- (93,1481][1)
+---------------------------------
+Se encontró una diferencia en la linea 54
+Dom original:                   <android.widget.LinearLayout bounds="[0,1498][1080,1691]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="9" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idMailNaturalPerson" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,1484][1080,1677]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="9" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idMailNaturalPerson" scrollable="false" selected="false" text="">
+Diferencia: ([0,1498][1) --- ([0,1484][1)
+---------------------------------
+Se encontró una diferencia en la linea 55
+Dom original:                     <android.widget.RelativeLayout bounds="[28,1498][215,1691]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[28,1484][215,1677]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (28,1498][2) --- (28,1484][2)
+---------------------------------
+Se encontró una diferencia en la linea 56
+Dom original:                       <android.widget.ImageView bounds="[28,1560][152,1629]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                       <android.widget.ImageView bounds="[28,1555][134,1606]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Skandia" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Diferencia: (28,1560][1) --- (28,1555][1)
+---------------------------------
+Se encontró una diferencia en la linea 58
+Dom original:                     <android.widget.RelativeLayout bounds="[215,1498][1053,1691]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[215,1484][1053,1677]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (15,1498][1) --- (15,1484][1)
+---------------------------------
+Se encontró una diferencia en la linea 59
+Dom original:                       <android.widget.TextView bounds="[229,1541][691,1594]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/mail1" scrollable="false" selected="false" text="cliente@oldmutual.com.co"/>
+Dom actual:                       <android.widget.TextView bounds="[229,1533][755,1580]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/mail1" scrollable="false" selected="false" text="cliente@oldmutual.com.co"/>
+Diferencia: (29,1541][6) --- (29,1533][7)
+---------------------------------
+Se encontró una diferencia en la linea 60
+Dom original:                       <android.widget.TextView bounds="[229,1594][548,1647]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Correo Electrónico"/>
+Dom actual:                       <android.widget.TextView bounds="[229,1580][594,1627]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Correo Electrónico"/>
+Diferencia: (29,1594][5) --- (29,1580][5)
+---------------------------------
+Se encontró una diferencia en la linea 63
+Dom original:                   <android.widget.LinearLayout bounds="[0,1691][1080,1805]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="11" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,1677][1080,1785]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="11" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ([0,1691][1) --- ([0,1677][1)
+---------------------------------
+Se encontró una diferencia en la linea 64
+Dom original:                     <android.widget.TextView bounds="[41,1746][442,1805]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle2" scrollable="false" selected="false" text="Servicio Empresarial"/>
+Dom actual:                     <android.widget.TextView bounds="[41,1732][491,1785]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle2" scrollable="false" selected="false" text="Servicio Empresarial"/>
+Diferencia: (41,1746][4) --- (41,1732][4)
+---------------------------------
+Se encontró una diferencia en la linea 66
+Dom original:                   <android.widget.LinearLayout bounds="[0,1805][1080,1998]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="12" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idPhoneBusinessService" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,1785][1080,1978]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="12" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idPhoneBusinessService" scrollable="false" selected="false" text="">
+Diferencia: ("[0,1805][) --- ("[0,1785][)
+---------------------------------
+Se encontró una diferencia en la linea 67
+Dom original:                     <android.widget.RelativeLayout bounds="[28,1805][215,1998]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[28,1785][215,1978]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ([28,1805][) --- ([28,1785][)
+---------------------------------
+Se encontró una diferencia en la linea 68
+Dom original:                       <android.widget.ImageView bounds="[28,1867][152,1936]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                       <android.widget.ImageView bounds="[28,1856][134,1907]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Skandia" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Diferencia: (28,1867][1) --- (28,1856][1)
+---------------------------------
+Se encontró una diferencia en la linea 70
+Dom original:                     <android.widget.RelativeLayout bounds="[215,1805][1053,1998]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[215,1785][1053,1978]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (215,1805][) --- (215,1785][)
+---------------------------------
+Se encontró una diferencia en la linea 71
+Dom original:                       <android.widget.TextView bounds="[229,1846][620,1901]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhoneBusinessService" scrollable="false" selected="false" text="Bogotá (031) 6584123"/>
+Dom actual:                       <android.widget.TextView bounds="[229,1826][639,1881]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvPhoneBusinessService" scrollable="false" selected="false" text="Bogotá (031) 6584123"/>
+Diferencia: (29,1846][6) --- (29,1826][6)
+---------------------------------
+Se encontró una diferencia en la linea 72
+Dom original:                       <android.widget.TextView bounds="[229,1901][381,1956]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Dom actual:                       <android.widget.TextView bounds="[229,1881][401,1936]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Teléfono"/>
+Diferencia: (229,1901][) --- (229,1881][)
+---------------------------------
+Se encontró una diferencia en la linea 75
+Dom original:                   <android.widget.LinearLayout bounds="[193,1998][1080,2001]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="13" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Dom actual:                   <android.widget.LinearLayout bounds="[193,1978][1080,1981]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="13" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text=""/>
+Diferencia: (93,1998][1) --- (93,1978][1)
+---------------------------------
+Se encontró una diferencia en la linea 76
+Dom original:                   <android.widget.LinearLayout bounds="[0,2001][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="14" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,1981][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="14" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (="[0,2001]) --- (="[0,1981])
+---------------------------------
+Se encontró una diferencia en la linea 77
+Dom original:                     <android.widget.LinearLayout bounds="[0,2001][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idMailBusinessService" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.LinearLayout bounds="[0,1981][1080,2068]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/idMailBusinessService" scrollable="false" selected="false" text="">
+Diferencia: (="[0,2001]) --- (="[0,1981])
+---------------------------------
+Se encontró una diferencia en la linea 78
+Dom original:                       <android.widget.RelativeLayout bounds="[28,2001][215,2068]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                       <android.widget.RelativeLayout bounds="[28,1981][215,2068]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ("[28,2001]) --- ("[28,1981])
+---------------------------------
+Se encontró una diferencia en la linea 79
+Dom original:                         <android.widget.ImageView bounds="[28,2063][152,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Old Mutual" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/icon_mail" scrollable="false" selected="false" text=""/>
+Dom actual:                         <android.widget.ImageView bounds="[28,2052][134,2068]" checkable="false" checked="false" class="android.widget.ImageView" clickable="false" content-desc="Skandia" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/icon_mail" scrollable="false" selected="false" text=""/>
+Diferencia: (28,2063][1) --- (28,2052][1)
+---------------------------------
+Se encontró una diferencia en la linea 81
+Dom original:                       <android.widget.RelativeLayout bounds="[215,2001][1053,2068]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                       <android.widget.RelativeLayout bounds="[215,1981][1053,2068]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ([215,2001]) --- ([215,1981])
+---------------------------------
+Se encontró una diferencia en la linea 82
+Dom original:                         <android.widget.TextView bounds="[229,2044][861,2068]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/mailBusinessService" scrollable="false" selected="false" text="servicioempresa@oldmutual.com.co"/>
+Dom actual:                         <android.widget.TextView bounds="[229,2030][944,2068]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/mailBusinessService" scrollable="false" selected="false" text="servicioempresa@oldmutual.com.co"/>
+Diferencia: (29,2044][8) --- (29,2030][9)
+---------------------------------
+Se encontró una diferencia en la linea 83
+Dom original:                         <android.widget.TextView bounds="[229,2097][548,2150]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Correo Electrónico"/>
+Dom actual:                         <android.widget.TextView bounds="[229,2077][594,2124]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Correo Electrónico"/>
+Diferencia: (29,2097][5) --- (29,2077][5)
+---------------------------------
+Se encontró una diferencia en la linea 86
+Dom original:                     <android.widget.LinearLayout bounds="[0,2194][1080,2280]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.LinearLayout bounds="[0,2174][1080,2280]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ([0,2194][1) --- ([0,2174][1)
+---------------------------------
+Se encontró una diferencia en la linea 87
+Dom original:                       <android.widget.TextView bounds="[41,2249][336,2280]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Redes sociales"/>
+Dom actual:                       <android.widget.TextView bounds="[41,2229][366,2280]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Redes sociales"/>
+Diferencia: (41,2249][3) --- (41,2229][3)
+---------------------------------
+Comparando imagenes de look and feel
+Porcentaje de diferencia en look and feel:4.67388737062943
+Se encontró una diferencia en la linea 12
+Dom original:               <android.widget.LinearLayout bounds="[55,291][1039,482]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/layoffline" scrollable="false" selected="false" text="">
+Dom actual:               <android.widget.LinearLayout bounds="[55,291][1039,680]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/layoffline" scrollable="false" selected="false" text="">
+Diferencia: (1039,482]") --- (1039,680]")
+---------------------------------
+Se encontró una diferencia en la linea 13
+Dom original:                 <android.widget.TextView bounds="[55,291][1039,482]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="Solicite  extractos, certificados  de  afiliación  y  tributarios sin usuario ni clave.    Los documentos   serán   enviados a su         correo        electrónico        registrado        junto        con         una notificación SMS a su teléfono celular. "/>
+Dom actual:                 <android.widget.Button bounds="[55,291][1039,680]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="SOLICITE EXTRACTOS, CERTIFICADOS DE AFILIACIÓN Y TRIBUTARIOS SIN USUARIO NI CLAVE. LOS DOCUMENTOS SERÁN ENVIADOS A SU CORREO ELECTRÓNICO REGISTRADO JUNTO CON UNA NOTIFICACIÓN SMS A SU TELÉFONO CELULAR."/>
+Diferencia: (dget.TextV) --- (dget.Butto)
+---------------------------------
+Se encontró una diferencia en la linea 15
+Dom original:               <android.widget.LinearLayout bounds="[0,702][1080,1213]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:               <android.widget.LinearLayout bounds="[0,900][1080,1405]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (="[0,702][) --- (="[0,900][)
+---------------------------------
+Se encontró una diferencia en la linea 16
+Dom original:                 <android.widget.LinearLayout bounds="[0,702][1080,862]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                 <android.widget.LinearLayout bounds="[0,900][1080,1060]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (="[0,702][) --- (="[0,900][)
+---------------------------------
+Se encontró una diferencia en la linea 17
+Dom original:                   <android.widget.LinearLayout bounds="[0,702][900,862]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                   <android.widget.LinearLayout bounds="[0,900][900,1060]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (="[0,702][) --- (="[0,900][)
+---------------------------------
+Se encontró una diferencia en la linea 18
+Dom original:                     <android.widget.RelativeLayout bounds="[0,730][402,862]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                     <android.widget.RelativeLayout bounds="[0,928][402,1060]" checkable="false" checked="false" class="android.widget.RelativeLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: (="[0,730][) --- (="[0,928][)
+---------------------------------
+Se encontró una diferencia en la linea 19
+Dom original:                       <android.widget.Button bounds="[0,730][402,862]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/bttipodocumentoget" scrollable="false" selected="false" text=""/>
+Dom actual:                       <android.widget.Button bounds="[0,928][402,1060]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/bttipodocumentoget" scrollable="false" selected="false" text=""/>
+Diferencia: (="[0,730][) --- (="[0,928][)
+---------------------------------
+Se encontró una diferencia en la linea 20
+Dom original:                       <android.widget.EditText bounds="[55,758][402,814]" checkable="false" checked="false" class="android.widget.EditText" clickable="true" displayed="true" enabled="true" focusable="true" focused="true" index="1" long-clickable="true" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/etTipoDocumento" scrollable="false" selected="false" text="Tipo id"/>
+Dom actual:                       <android.widget.EditText bounds="[55,956][402,1006]" checkable="false" checked="false" class="android.widget.EditText" clickable="true" displayed="true" enabled="true" focusable="true" focused="true" index="1" long-clickable="true" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/etTipoDocumento" scrollable="false" selected="false" text="Tipo id"/>
+Diferencia: ("[55,758][) --- ("[55,956][)
+---------------------------------
+Se encontró una diferencia en la linea 22
+Dom original:                     <android.widget.EditText bounds="[402,705][872,862]" checkable="false" checked="false" class="android.widget.EditText" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="1" long-clickable="true" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/etNumeroDocumento" scrollable="false" selected="false" text="Número de Documento"/>
+Dom actual:                     <android.widget.EditText bounds="[402,903][872,1060]" checkable="false" checked="false" class="android.widget.EditText" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="1" long-clickable="true" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/etNumeroDocumento" scrollable="false" selected="false" text="Número de Documento"/>
+Diferencia: ([402,705][) --- ([402,903][)
+---------------------------------
+Se encontró una diferencia en la linea 25
+Dom original:                 <android.widget.TextView bounds="[55,917][1080,970]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/textView7" scrollable="false" selected="false" text="Seleccione tipo de documento"/>
+Dom actual:                 <android.widget.TextView bounds="[55,1115][1080,1162]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/textView7" scrollable="false" selected="false" text="Seleccione tipo de documento"/>
+Diferencia: ("[55,917][) --- ("[55,1115])
+---------------------------------
+Se encontró una diferencia en la linea 26
+Dom original:                 <android.widget.LinearLayout bounds="[55,1025][1039,1213]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Dom actual:                 <android.widget.LinearLayout bounds="[55,1217][1039,1405]" checkable="false" checked="false" class="android.widget.LinearLayout" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" scrollable="false" selected="false" text="">
+Diferencia: ([55,1025][) --- ([55,1217][)
+---------------------------------
+Se encontró una diferencia en la linea 27
+Dom original:                   <android.widget.Button bounds="[83,1053][355,1185]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btCertificadoAfiliacion" scrollable="false" selected="false" text="AFILIACIÓN"/>
+Dom actual:                   <android.widget.Button bounds="[83,1245][353,1377]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btCertificadoAfiliacion" scrollable="false" selected="false" text="AFILIACIÓN"/>
+Diferencia: ([83,1053][) --- ([83,1245][)
+---------------------------------
+Se encontró una diferencia en la linea 28
+Dom original:                   <android.widget.Button bounds="[411,1053][683,1185]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btCertificadoTributario" scrollable="false" selected="false" text="TRIBUTARIO"/>
+Dom actual:                   <android.widget.Button bounds="[409,1245][684,1377]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btCertificadoTributario" scrollable="false" selected="false" text="TRIBUTARIO"/>
+Diferencia: (s="[411,10) --- (s="[409,12)
+---------------------------------
+Se encontró una diferencia en la linea 29
+Dom original:                   <android.widget.Button bounds="[739,1053][1011,1185]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btCertificadoExtracto" scrollable="false" selected="false" text="EXTRACTO"/>
+Dom actual:                   <android.widget.Button bounds="[740,1245][1011,1377]" checkable="false" checked="false" class="android.widget.Button" clickable="true" displayed="true" enabled="true" focusable="true" focused="false" index="2" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/btCertificadoExtracto" scrollable="false" selected="false" text="EXTRACTO"/>
+Diferencia: (s="[739,10) --- (s="[740,12)
+---------------------------------
+Comparando imagenes de look and feel
+Porcentaje de diferencia en look and feel:9.064294678235168
+Se encontró una diferencia en la linea 14
+Dom original:                   <android.widget.TextView bounds="[55,343][485,417]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle" scrollable="false" selected="false" text="Apreciado Cliente"/>
+Dom actual:                   <android.widget.TextView bounds="[55,343][553,409]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="0" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTitle" scrollable="false" selected="false" text="Apreciado Cliente"/>
+Diferencia: (343][485,4) --- (343][553,4)
+---------------------------------
+Se encontró una diferencia en la linea 15
+Dom original:                   <android.widget.TextView bounds="[55,472][1025,895]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTextInfo" scrollable="false" selected="false" text="Para    restablecer    su    contraseña   y      enviarle   una nueva,           debe            tener            registrado           su           correo electrónico en nuestros sistemas de información. Si    aún    no   lo   tiene,   comuníquese    con    nuestros  analistas del Contact Center al (031) 658 4000 en Bogotá, o    al 018000 517526  a nivel   nacional, de lunes a   viernes  de  8:00 am a 7:00 pm y sábados de 9:00 am a 1:00 pm. "/>
+Dom actual:                   <android.widget.TextView bounds="[55,464][1025,949]" checkable="false" checked="false" class="android.widget.TextView" clickable="false" displayed="true" enabled="true" focusable="false" focused="false" index="1" long-clickable="false" package="com.oldmutual.mobileapp" password="false" resource-id="com.oldmutual.mobileapp:id/tvTextInfo" scrollable="false" selected="false" text="Para restablecer su contraseña y enviarle una nueva, debe tener registrado su correo electrónico en nuestros sistemas de información. Si aún no lo tiene, comuníquese con nuestros analistas del Contact Center al (031) 658 4000 en Bogotá, o al 018000 517526 a nivel nacional, de lunes a viernes de 8:00 am a 7:00 pm y sábados de 9:00 am a 1:00 pm."/>
+Diferencia: ([55,472][1) --- ([55,464][1)
+---------------------------------
+Comparando imagenes de look and feel
+Porcentaje de diferencia en look and feel:9.064294678235168
+Finalizando ejecución a las 20190717-120736
